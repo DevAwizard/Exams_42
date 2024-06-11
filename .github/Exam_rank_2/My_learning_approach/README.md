@@ -10,8 +10,9 @@ Although there are 4 levels in exam rank 2, my learning process is different. I 
 
 I started with Characters (original order), then Characters (reverse order), followed by Integers, Bits, and finally Linked lists. Within each category, I organized the tasks from easiest to hardest according to my criteria.
 
-### Characters (Original Order)
+### 1. Characters (Original Order)
 - First_word
+- last_word
 - putstr
 - Ft_strcpy
 - Ft_strlen
@@ -19,13 +20,39 @@ I started with Characters (original order), then Characters (reverse order), fol
 - Repeat_alpha
 - Search_and_replace
 - Ulstr
-
-### Characters (Reverse Order)
-- reve_print
+- ft_strdup
+- ft_strcmp
+- ft_strcspn
+- ft_strpbrk
+- ft_strspn
+- epur_str
+- camel_to_snake
+- snake_to_camel
+- str_capitalizer
+- expand_str
 - rotone
 - rot_13
+- ft_split
+- sort_list
+- inter
+- union
+- flood_fill
+- hidenp
 
-### Integers
+### 2. Characters (Reverse Order)
+- reve_print
+
+- rstr_capitalizer
+- Rostring
+- ft_strrev
+- rev_wstr
+
+
+### 3. Integers
+- paramsum
+- ft_range
+- ft_rrange
+- tab_mult
 - Fizzbuzz
 - max
 - add_prime_sum
@@ -35,44 +62,21 @@ I started with Characters (original order), then Characters (reverse order), fol
 - do_op
 - pgcd
 - lcm
+- print_hex
 
-### Bits
+### 4. Bits
 - print_bits
 - reverse_bits
 
-### Linked Lists
+### 5. Linked Lists
 - ft_list_size
 - ft_list_foreach
 - ft_list_remove_if
-- sort_list
-- inter
-- union
-- flood_fill
-- hidenp
-- ft_split
-- rostring
-- rev_wstr
-- expand_str
-- paramsum
-- ft_range
-- ft_rrange
-- tab_mult
-- ft_strdup
-- ft_strrev
-- ft_strcmp
-- ft_strcspn
-- ft_strpbrk
-- ft_strspn
-- camel_to_snake
-- snake_to_camel
-- rstr_capitalizer
-- str_capitalizer
-- last_word
-- epur_str
-- print_hex
+
+
+
+
+
 
 
 ---
-
-
-----
