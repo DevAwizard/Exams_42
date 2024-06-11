@@ -10,7 +10,7 @@
 
 ### 📋 Task Breakdown by Levels
 
-| 🌟 **Level** | **Tasks** |
+| 🌟 **Level** | **Functions** |
 |-------------|-----------|
 | 🟢 **Nivel 1** | First_word, Fizzbuzz, Ft_strcpy, Ft_strlen, Ft_swap, putstr, Repeat_alpha, reve_print, rot_13, rotone, Search_and_replace, Ulstr |
 | 🔵 **Nivel 2** | alpha_mirror, camel_to_snake, do_op, ft_atoi, ft_strcmp, ft_strcspn, ft_strdup, ft_strpbrk, ft_strrev, ft_strspn, inter, is_power_of_2, last_word, max, print_bits, reverse_bits, snake_to_camel, swap_bits, union, wdmatch |
