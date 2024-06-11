@@ -29,10 +29,14 @@
 
 > [!IMPORTANT]
 > Log in within the first 10 minutes or you will be asked to leave.
-
+>
 > No internet or phones allowed.
-
+>
 > Only white paper, pen, or pencil permitted.
+>
+> Water permitted.
+>
+> The exam lasts 3 hours.
 
 
 
