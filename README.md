@@ -16,7 +16,7 @@
 <tr>
 <td>
 
-| 💻 [Exam Guide](https://github.com/DevAwizard/Exams_42/tree/f2c78c4864632da0b852ee7a744cd6d0ddb2f515/.github/Exam_Guide) | 📘 [Exam Rank 02](https://github.com/DevAwizard/Exams_42/tree/b9bd0ff2bf7a13be62d56f0fe2ff13850b6e2c6c/.github/Exam_rank_2) | 📒 [Exam Rank 03](https://github.com/DevAwizard/Exams_42/tree/7d82ab11b0df820f7be70c60a5958c30a3404433/.github/Exam_rank_3) | 📙 [Exam Rank 04](https://github.com/DevAwizard/Exams_42/tree/7d82ab11b0df820f7be70c60a5958c30a3404433/.github/Exam_rank_4) | 📗 [Exam Rank 05](https://github.com/DevAwizard/Exams_42/tree/7d82ab11b0df820f7be70c60a5958c30a3404433/.github/Exam_rank_5) | 📕 [Exam Rank 06](https://github.com/DevAwizard/Exams_42/tree/7d82ab11b0df820f7be70c60a5958c30a3404433/.github/Exam_rank_6) |
+| 💻 [Exam Guide](https://github.com/DevAwizard/Exams_42/tree/f2c78c4864632da0b852ee7a744cd6d0ddb2f515/.github/Exam_Guide) | 📘 [Exam Rank 02](https://github.com/DevAwizard/Exams_42/tree/b9bd0ff2bf7a13be62d56f0fe2ff13850b6e2c6c/.github/Exam_rank_2) | 📒 [Exam Rank 03](https://github.com/DevAwizard/Exams_42/tree/c5bb28211c3de82c7875f4455809a309dd0d0055/.github/Exam_rank_3) | 📙 [Exam Rank 04](https://github.com/DevAwizard/Exams_42/tree/c5bb28211c3de82c7875f4455809a309dd0d0055/.github/Exam_rank_4) | 📗 [Exam Rank 05](https://github.com/DevAwizard/Exams_42/tree/c5bb28211c3de82c7875f4455809a309dd0d0055/.github/Exam_rank_5) | 📕 [Exam Rank 06](https://github.com/DevAwizard/Exams_42/tree/c5bb28211c3de82c7875f4455809a309dd0d0055/.github/Exam_rank_6) |
 |--|--|--|--|--|--|
 
 </td>
