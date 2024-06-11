@@ -2,6 +2,8 @@
 
 # include <stdio.h> // printf
 
+// Function prototype
+
 int ft_strlen(char *string)
 {
 	int index;

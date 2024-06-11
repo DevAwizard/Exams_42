@@ -1,5 +1,14 @@
 ## My Learning Approach
 
+[![Progress](https://img.shields.io/badge/Progress-In%20Progress-yellow)](https://github.com/DevAwizard/Exams_42) 
+
+
+
+
+<img src="https://github.com/DevAwizard/Exams_42/assets/153505451/3313b894-7da6-4f0d-8fa9-1363b944ec8b" alt="anime-sad" width="1000" height="500">
+
+
+
 Although there are 4 levels in exam rank 2, my learning process is different. I divide these functions into 5 categories:
 
 - Characters (original order)
@@ -10,68 +19,86 @@ Although there are 4 levels in exam rank 2, my learning process is different. I 
 
 I started with Characters (original order), then Characters (reverse order), followed by Integers, Bits, and finally Linked lists. Within each category, I organized the tasks from easiest to hardest according to my criteria.
 
-### 1. Characters (Original Order)
-- First_word
-- last_word
-- putstr
-- Ft_strcpy
-- Ft_strlen
-- Ft_swap
-- Repeat_alpha
-- Search_and_replace
-- Ulstr
-- ft_strdup
-- ft_strcmp
-- ft_strcspn
-- ft_strpbrk
-- ft_strspn
-- epur_str
-- camel_to_snake
-- snake_to_camel
-- str_capitalizer
-- expand_str
-- rotone
-- rot_13
-- ft_split
-- sort_list
-- inter
-- union
-- flood_fill
-- hidenp
 
-### 2. Characters (Reverse Order)
-- reve_print
-- rstr_capitalizer
-- Rostring
-- ft_strrev
-- rev_wstr
+## 1. Characters (Original Order)
 
+| Number | Function | Description |
+|--------|-----------|-------------|
+| 1 | [Ft_strlen](https://github.com/DevAwizard/Exams_42/tree/463f9d6f63fe7e688d7c3f873a5035a945ba8809/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strlen) | Returns the length of a string |
+| 2 | [Putstr](https://github.com/DevAwizard/Exams_42/tree/6bbe34b92df20e75763df920e0751c7cc5cdab33/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_putstr) | Prints a string to the standard output |
+| 3 | Ft_strcmp | Compares two strings |
+| 4 | Ft_strdup | Duplicates a string |
+| 5 | Ulstr | Converts a string to uppercase |
+| 6 | Str_capitalizer | Capitalizes the first letter of each word in a string |
+| 7 | First_word | Extracts the first word from a string |
+| 8 | Last_word | Extracts the last word from a string |
+| 9 | Camel_to_snake | Converts CamelCase to snake_case |
+| 10 | Snake_to_camel | Converts snake_case to CamelCase |
+| 11 | Epur_str | Removes extra spaces from a string |
+| 12 | Expand_str | Expands spaces in a string |
+| 13 | Alpha_mirror | Mirrors the alphabet in a string |
+| 14 | Search_and_replace | Replaces characters in a string |
+| 15 | Rot_one | Applies ROT1 cipher to a string |
+| 16 | Rot_13 | Applies ROT13 cipher to a string |
+| 17 | Ft_strspn | Gets the length of a prefix substring |
+| 18 | Ft_strcspn | Calculates the length of the initial segment not containing any characters in a specified set |
+| 19 | Ft_strpbrk | Searches a string for any set of bytes |
+| 20 | Repeat_alpha | Repeats each alphabet character in a string |
+| 21 | Hiden_p | Checks if a string is hidden in another string |
+| 22 | Inter | Finds the intersection of two strings |
+| 23 | Wd_match | Matches words in a string |
+| 24 | Union | Creates a union of two strings |
+| 25 | Flood_fill | Fills an area of memory with a specified character |
+| 26 | Ft_split | Splits a string into an array of words |
 
-### 3. Integers
-- paramsum
-- ft_range
-- ft_rrange
-- tab_mult
-- Fizzbuzz
-- max
-- add_prime_sum
-- ft_atoi
-- is_power_of_2
-- ft_atoi_base
-- do_op
-- pgcd
-- lcm
-- print_hex
+## 2. Characters (Reverse Order)
 
-### 4. Bits
-- print_bits
-- reverse_bits
-- swap_bits
+| Number | Function | Description |
+|--------|-----------|-------------|
+| 1 | Ft_strrev | Reverses a string |
+| 2 | Reve_print | Prints a string in reverse |
+| 3 | Rev_wstr | Reverses the words in a string |
+| 4 | Rostring | Reverses the order of words in a string |
+| 5 | Rstr_capitalizer | Capitalizes the first letter of each word in reverse order |
 
-### 5. Linked Lists
-- ft_list_size
-- ft_list_foreach
-- ft_list_remove_if
+## 3. Integers
+
+| Number | Function | Description |
+|--------|-----------|-------------|
+| 1 | Ft_swap | Swaps the values of two integers |
+| 2 | Parasum | Sums the parameters |
+| 3 | Fizzbuzz | Prints numbers with "Fizz", "Buzz", or "FizzBuzz" for multiples of 3, 5, or both |
+| 4 | Ft_atoi | Converts a string to an integer |
+| 5 | Ft_atoi_base | Converts a string to an integer with a given base |
+| 6 | Ft_print_hex | Prints an integer in hexadecimal |
+| 7 | Ft_itoa | Converts an integer to a string |
+| 8 | Is_power_of_2 | Checks if a number is a power of 2 |
+| 9 | Lmc | Finds the least common multiple of two integers |
+| 10 | Max | Finds the maximum value in an array of integers |
+| 11 | Pgcd | Finds the greatest common divisor of two integers |
+| 12 | Tab_mult | Prints the multiplication table |
+| 13 | Do_op | Performs basic arithmetic operations |
+| 14 | Add_prime_sum | Sums prime numbers up to a given number |
+| 15 | Ft_range | Creates an array of integers from a range |
+| 16 | Ft_rrange | Creates an array of integers from a range in reverse |
+| 17 | Sort_int_tab | Sorts an array of integers |
+
+## 4. Bits
+
+| Number | Function | Description |
+|--------|-----------|-------------|
+| 1 | Swap_bits | Swaps the bits of an integer |
+| 2 | Print_bits | Prints the binary representation of a byte |
+| 3 | Reverse_bits | Reverses the bits of a byte |
+
+## 5. Linked Lists
+
+| Number | Function | Description |
+|--------|-----------|-------------|
+| 1 | Ft_list_size | Returns the size of a linked list |
+| 2 | Ft_list_foreach | Applies a function to each element of a linked list |
+| 3 | Ft_list_remove_if | Removes elements from a linked list that match a condition |
+| 4 | Sort_list | Sorts a linked list |
 
 
 
