@@ -27,6 +27,127 @@
 </div>
 
 
+## Glossary
+
+
+<style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tbody tr:nth-child(odd) {
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Library Functions</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Library</th>
+                <th>Functions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>unistd.h</td>
+                <td>write</td>
+            </tr>
+            <tr>
+                <td>stdio.h</td>
+                <td>printf, scanf, fopen, fclose, fgets</td>
+            </tr>
+            <tr>
+                <td>fcntl.h</td>
+                <td>open, close</td>
+            </tr>
+            <tr>
+                <td>stdlib.h</td>
+                <td>exit, malloc, free</td>
+            </tr>
+            <tr>
+                <td>stddef.h</td>
+                <td>NULL</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h1>ASCII Table</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Description</th>
+                <th>Characters</th>
+                <th>ASCII Codes</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Digits</td>
+                <td>0 - 9</td>
+                <td>48 - 57</td>
+            </tr>
+            <tr>
+                <td>Uppercase letters</td>
+                <td>A - Z</td>
+                <td>65 - 90</td>
+            </tr>
+            <tr>
+                <td>Lowercase letters</td>
+                <td>a - z</td>
+                <td>97 - 122</td>
+            </tr>
+            <tr>
+                <td>Horizontal Tab</td>
+                <td>\t</td>
+                <td>9</td>
+            </tr>
+            <tr>
+                <td>Line Feed</td>
+                <td>\n</td>
+                <td>10</td>
+            </tr>
+            <tr>
+                <td>Vertical Tab</td>
+                <td>\v</td>
+                <td>11</td>
+            </tr>
+            <tr>
+                <td>Form Feed</td>
+                <td>\f</td>
+                <td>12</td>
+            </tr>
+            <tr>
+                <td>Carriage Return</td>
+                <td>\r</td>
+                <td>13</td>
+            </tr>
+            <tr>
+                <td>Space</td>
+                <td>' '</td>
+                <td>32</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+
+ASCII TABLE
+![asciifull](https://github.com/DevAwizard/Exams_42/assets/153505451/05c3e308-eb7d-4189-831f-41d2aecadd9f)
+![extend](https://github.com/DevAwizard/Exams_42/assets/153505451/56342b82-0f45-47ea-930e-8e95b28e3c42)
+
+
+
 > [!IMPORTANT]
 > Log in within the first 10 minutes or you will be asked to leave.
 >
