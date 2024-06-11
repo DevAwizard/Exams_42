@@ -32,6 +32,8 @@
 
 
 <div style="text-align: left;">
+  
+<div align="left">
   <blockquote>
     <strong>[!NOTE]</strong>
     <p>Any suggestions to improve the code are welcome!</p>
@@ -44,4 +46,7 @@
 </div>
 
 </div>
+
+
+
 ---
