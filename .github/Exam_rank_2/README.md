@@ -2,7 +2,9 @@
 
 
 
-# Exam Rank 2
+<div align="center">
+  <h1>Exam rank 2</h1>
+</div>
 
 
 
