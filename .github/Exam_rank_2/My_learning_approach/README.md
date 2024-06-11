@@ -22,9 +22,11 @@ I started with Characters (original order), then Characters (reverse order), fol
 
 ## 1. Characters (Original Order)
 
-- [x] [Ft_strlen](https://github.com/DevAwizard/Exams_42/tree/463f9d6f63fe7e688d7c3f873a5035a945ba8809/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strlen)
-- [ ] First_word
-- [ ] Last_word
+- [Ft_strlen](https://github.com/DevAwizard/Exams_42/tree/463f9d6f63fe7e688d7c3f873a5035a945ba8809/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strlen)
+
+- First_word
+
+- Last_word
 - [ ] Putstr
 - [ ] Ft_strcpy
 - [ ] Ft_swap
