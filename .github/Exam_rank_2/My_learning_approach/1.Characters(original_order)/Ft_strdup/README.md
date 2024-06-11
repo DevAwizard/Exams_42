@@ -1,8 +1,7 @@
 ## Ft_strdup
 
-### Subject
-
 ```bash
+Subject
 
 Assignment name  : ft_strdup
 Expected files   : ft_strdup.c
