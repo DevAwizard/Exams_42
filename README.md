@@ -11,7 +11,7 @@
 
 <table>
 <tr>
-<th align="center">📚 Common Core Exams</th>
+<th align="left"><span style="font-size:10000px">📚 Common Core Exams</span></th>
 </tr>
 <tr>
 <td>
