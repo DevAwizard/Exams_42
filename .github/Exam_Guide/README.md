@@ -8,6 +8,8 @@
 
 <table>
 <tr>
+<div align="center">
+
 <th align="center"><h2>Common Core Exams</h2></th>
 </tr>
 <tr>
