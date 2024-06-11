@@ -1,6 +1,9 @@
 <img src="../../Wallpaper/Sunset.gif" alt="sunset" width="1000" height="500">
 
 # 💡 Exam guide
+<div align="center">
+  <h1>💡 Exam guide</h1>
+</div>
 
 <table>
 <tr>
