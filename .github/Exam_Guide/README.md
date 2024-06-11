@@ -33,8 +33,6 @@
 
 
 
-
-
 > [!NOTE]
 > Any suggestions to improve the code are welcome!
 
