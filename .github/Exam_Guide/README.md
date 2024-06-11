@@ -59,7 +59,7 @@
             </tr>
             <tr>
                 <td>stddef.h</td>
-                <td>NULL</td>
+                <td>NULL, size_t</td>
             </tr>
         </tbody>
     </table>
