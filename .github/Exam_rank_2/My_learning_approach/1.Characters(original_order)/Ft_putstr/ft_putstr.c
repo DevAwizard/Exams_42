@@ -3,6 +3,8 @@
 # include <unistd.h> // write 
 # include <stdio.h> // printf
 
+
+// Function prototype
 void ft_putstr(char *string)
 {
 	int index;
@@ -15,8 +17,9 @@ void ft_putstr(char *string)
 		index++;
 	}
 }
-// main program
 
+
+// main program
 int main(void)
 {
     char *test_string;
