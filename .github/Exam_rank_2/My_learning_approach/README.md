@@ -5,7 +5,7 @@
 
 
 
-![anime-sad](https://github.com/DevAwizard/Exams_42/assets/153505451/3313b894-7da6-4f0d-8fa9-1363b944ec8b)
+<img src="https://github.com/DevAwizard/Exams_42/assets/153505451/3313b894-7da6-4f0d-8fa9-1363b944ec8b" alt="anime-sad" width="400" height="300">
 
 
 
