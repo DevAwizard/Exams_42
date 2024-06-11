@@ -30,12 +30,16 @@
 
 
 
-> [!NOTE]
-> Any suggestions to improve the code are welcome!
 
+<div style="text-align: left;">
+  <blockquote>
+    <strong>[!NOTE]</strong>
+    <p>Any suggestions to improve the code are welcome!</p>
+  </blockquote>
 
-
-> [!TIP]
-> Practice the exam just like you would in the real exam using this tool - [Exam Practice Tool](https://github.com/JCluzet/42_EXAM)
-
+  <blockquote>
+    <strong>[!TIP]</strong>
+    <p>Practice the exam just like you would in the real exam using this tool - <a href="https://github.com/JCluzet/42_EXAM">Exam Practice Tool</a></p>
+  </blockquote>
+</div>
 ---
