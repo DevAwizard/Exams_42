@@ -27,8 +27,7 @@
 | 4 | [Ft_strdup](https://github.com/DevAwizard/Exams_42/tree/0ca57fd92285d0b96fb7b2cb205fbb645e49a937/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strdup) | Duplicates a string |
 | 5 | [Ulstr](https://github.com/DevAwizard/Exams_42/tree/ab59dc5cc1b307ec240f2956d3d393a68176f43d/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ulstr)| Converts a string to uppercase |
 | 6 | [Str_capitalizer] | Capitalizes the first letter of each word in a string |
-| 7 | [First_word](https://github.com/DevAwizard/Exams_42/tree/04f6cc37208f21bbb6774179fbced432e60616c0/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/First_word)
- | Extracts the first word from a string |
+| 7 | [First_word](https://github.com/DevAwizard/Exams_42/tree/04f6cc37208f21bbb6774179fbced432e60616c0/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/First_word) | Extracts the first word from a string |
 | 8 | [Last_word] | Extracts the last word from a string |
 | 9 | [Camel_to_snake] | Converts CamelCase to snake_case |
 | 10 | [Snake_to_camel] | Converts snake_case to CamelCase |
