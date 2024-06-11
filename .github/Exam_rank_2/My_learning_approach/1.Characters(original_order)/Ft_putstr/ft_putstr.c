@@ -1,5 +1,7 @@
 // Always include Headlines, if you want to compile the program
 
+// Function to display a string on the standard output
+
 # include <unistd.h> // write 
 # include <stdio.h> // printf
 

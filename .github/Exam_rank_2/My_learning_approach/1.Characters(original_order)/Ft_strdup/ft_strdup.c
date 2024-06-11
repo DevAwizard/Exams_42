@@ -2,6 +2,13 @@
 # include <stdio.h>
 
 
+/* This program defines a function ft_strdup that duplicates a string (src) by allocating dynamic memory for the new string and copying the content of src to this new memory location.
+
+Example:
+Input: source = "Hola mundo"
+Output: Duplicated string: "Hola mundo" 
+*/
+
 // Function prototype
 char *ft_strdup(char *destination, char *source)
 {

@@ -2,6 +2,15 @@
 
 # include <unistd.h>
 
+/* This program takes an input string and converts all lowercase letters to uppercase and all uppercase letters to lowercase.
+
+Example:
+Input: "Hello World!"
+Output: "hELLO wORLD!"
+
+Input: "123AbC"
+Output: "123aBc" */
+
 // Main program
 
 int main (int argc, char **argv)

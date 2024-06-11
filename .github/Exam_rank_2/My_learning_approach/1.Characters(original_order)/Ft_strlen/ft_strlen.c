@@ -2,6 +2,9 @@
 
 # include <stdio.h> // printf
 
+
+// Function to calculate the length of a string
+
 // Function prototype
 
 int ft_strlen(char *string)
