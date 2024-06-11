@@ -29,9 +29,9 @@
 
 ## Relevant Info
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
 
-<div style="flex: 0 1 48%;">
+<div style="flex: 1; margin-right: 10px;">
     <h3>Useful Library Headers</h3>
     <table>
         <thead>
@@ -65,7 +65,7 @@
     </table>
 </div>
 
-<div style="flex: 0 1 48%;">
+<div style="flex: 1;">
     <h3>ASCII Table</h3>
     <table>
         <thead>
