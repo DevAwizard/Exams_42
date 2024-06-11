@@ -24,7 +24,9 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td>Rather than progressing through each level sequentially, my approach is to categorize the tasks by grouping similar functions and programs together, regardless of their designated levels. This method allows for a more focused study of related concepts and skills. The main objective is to identify and track areas for improvement in the logical structure and implementation of the code.</td>
+    <td>My approach to preparing for this exam is distinct. I prioritize a deep understanding of core concepts and practice a variety of problems to develop a comprehensive grasp of the material. Instead of merely aiming to pass, I adopt a strategy that involves exploring multiple solutions and delving into the underlying principles. This method enhances my ability to tackle questions more efficiently and effectively during the exam.
+
+Rather than progressing through each level sequentially, I categorize the tasks by grouping similar functions and programs together, irrespective of their designated levels. This approach facilitates a more focused study of related concepts and skills. The main objective of this method is to identify and track areas for improvement in the logical structure and implementation of the code..</td>
   </tr>
 </table>
 
