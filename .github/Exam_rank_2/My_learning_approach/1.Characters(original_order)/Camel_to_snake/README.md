@@ -1,8 +1,10 @@
-## Camel_to_snake
+# Camel_to_snake
 
-### Subject
 
 ```bash
+Subject
+
+
 Assignment name  : camel_to_snake
 Expected files   : camel_to_snake.c
 Allowed functions: malloc, realloc, write
