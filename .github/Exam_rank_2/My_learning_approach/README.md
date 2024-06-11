@@ -1,5 +1,7 @@
 ## My Learning Approach
 
+[![Progress](https://img.shields.io/badge/Progress-In%20Progress-yellow)](https://github.com/DevAwizard/Exams_42) 
+
 Although there are 4 levels in exam rank 2, my learning process is different. I divide these functions into 5 categories:
 
 - Characters (original order)
