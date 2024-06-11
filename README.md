@@ -11,7 +11,8 @@
 
 <table>
 <tr>
-<th align="left"><span style="font-size:10000px">📚 Common Core Exams</span></th>
+<h2>Welcome to the 42 Exams Repository</h2>
+<th align="center"><span style="font-size:10000px">📚 Common Core Exams</span></th>
 </tr>
 <tr>
 <td>
