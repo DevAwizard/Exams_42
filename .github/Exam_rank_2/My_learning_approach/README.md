@@ -25,7 +25,7 @@ I started with Characters (original order), then Characters (reverse order), fol
 | Number | Function | Description |
 |--------|-----------|-------------|
 | 1 | [Ft_strlen](https://github.com/DevAwizard/Exams_42/tree/463f9d6f63fe7e688d7c3f873a5035a945ba8809/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strlen) | Returns the length of a string |
-| 2 | Putstr | Prints a string to the standard output |
+| 2 | [Putstr](https://github.com/DevAwizard/Exams_42/tree/6bbe34b92df20e75763df920e0751c7cc5cdab33/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_putstr) | Prints a string to the standard output |
 | 3 | Ft_strcmp | Compares two strings |
 | 4 | Ft_strdup | Duplicates a string |
 | 5 | Ulstr | Converts a string to uppercase |
