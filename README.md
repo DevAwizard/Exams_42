@@ -10,6 +10,8 @@
 
 <table>
 <tr>
+<div align="center">
+
 <th align="center"><span style="font-size:10000px">📚 Common Core Exams</span></th>
 </tr>
 <tr>
