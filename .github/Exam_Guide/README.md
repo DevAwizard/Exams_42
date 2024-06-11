@@ -121,12 +121,12 @@
     </tbody>
 </table>
 
+## ASCII Images
 
-
-ASCII TABLE
-![asciifull](https://github.com/DevAwizard/Exams_42/assets/153505451/05c3e308-eb7d-4189-831f-41d2aecadd9f)
-![extend](https://github.com/DevAwizard/Exams_42/assets/153505451/56342b82-0f45-47ea-930e-8e95b28e3c42)
-
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github.com/DevAwizard/Exams_42/assets/153505451/05c3e308-eb7d-4189-831f-41d2aecadd9f" alt="asciifull" style="max-width: 48%; height: auto;">
+    <img src="https://github.com/DevAwizard/Exams_42/assets/153505451/56342b82-0f45-47ea-930e-8e95b28e3c42" alt="extend" style="max-width: 48%; height: auto;">
+</div>
 
 
 > [!IMPORTANT]
