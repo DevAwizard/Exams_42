@@ -1,8 +1,9 @@
 # Search_and_replace
 
-### Subject
 
 ```bash
+Subject
+
 Assignment name  : search_and_replace
 Expected files   : search_and_replace.c
 Allowed functions: write, exit
@@ -32,3 +33,5 @@ ZaZ eT David aiME le METal.$
 $>./search_and_replace "wNcOre Un ExEmPle Pas Facilw a Ecrirw " "w" "e" | cat -e
 eNcOre Un ExEmPle Pas Facile a Ecrire $
 ```
+
+---
