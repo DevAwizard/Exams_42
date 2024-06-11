@@ -24,7 +24,7 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td>My approach to preparing for this exam is unique. I focus on understanding the core concepts deeply and practice a variety of problems to ensure a well-rounded understanding. Rather than just aiming to pass, I pursue a different strategy that involves exploring multiple solutions and understanding the underlying principles. This approach helps in tackling the questions more efficiently and effectively during the exam.</td>
+    <td>Rather than progressing through each level sequentially, my approach is to categorize the tasks by grouping similar functions and programs together, regardless of their designated levels. This method allows for a more focused study of related concepts and skills. The main objective is to identify and track areas for improvement in the logical structure and implementation of the code.</td>
   </tr>
 </table>
 
