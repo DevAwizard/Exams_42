@@ -1,4 +1,4 @@
-<img src="../../Wallpaper/late-night-girl.gif" alt="late-night-girl" width="400" height="300">
+<img src="../../Wallpaper/late-night-girl.gif" alt="late-night-girl" width="1000" height="450">
 
 
 
