@@ -1,11 +1,10 @@
 
-
 ![logo 42](https://github.com/DevAwizard/Exams_42/assets/153505451/87d33eb6-ece1-43cd-92c7-d64152cc4968)
 
 
 
 <div align="center">
-  <h1>Welcome to the 42 Exams Repository</h1>
+<h1>Welcome to the 42 Exams Repository</h1>
 </div>
 
 
