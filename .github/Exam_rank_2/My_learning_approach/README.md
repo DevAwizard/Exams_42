@@ -26,8 +26,8 @@ I started with Characters (original order), then Characters (reverse order), fol
 |--------|-----------|-------------|
 | 1 | [Ft_strlen](https://github.com/DevAwizard/Exams_42/tree/463f9d6f63fe7e688d7c3f873a5035a945ba8809/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strlen) | Returns the length of a string |
 | 2 | [Putstr](https://github.com/DevAwizard/Exams_42/tree/6bbe34b92df20e75763df920e0751c7cc5cdab33/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_putstr) | Prints a string to the standard output |
-| 3 | Ft_strcmp | Compares two strings |
-| 4 | Ft_strdup | Duplicates a string |
+| 3 | [Ft_strcmp](https://github.com/DevAwizard/Exams_42/tree/0ca57fd92285d0b96fb7b2cb205fbb645e49a937/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strcmp) | Compares two strings |
+| 4 | [Ft_strdup](https://github.com/DevAwizard/Exams_42/tree/0ca57fd92285d0b96fb7b2cb205fbb645e49a937/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strdup) | Duplicates a string |
 | 5 | Ulstr | Converts a string to uppercase |
 | 6 | Str_capitalizer | Capitalizes the first letter of each word in a string |
 | 7 | First_word | Extracts the first word from a string |
