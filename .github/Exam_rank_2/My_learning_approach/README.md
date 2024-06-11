@@ -10,73 +10,73 @@ Although there are 4 levels in exam rank 2, my learning process is different. I 
 
 I started with Characters (original order), then Characters (reverse order), followed by Integers, Bits, and finally Linked lists. Within each category, I organized the tasks from easiest to hardest according to my criteria.
 
-### 1. Characters (Original Order)
-- [Ft_strlen](https://github.com/DevAwizard/Exams_42/tree/463f9d6f63fe7e688d7c3f873a5035a945ba8809/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strlen)
 
+## 1. Characters (Original Order)
 
+- [x] [Ft_strlen](https://github.com/DevAwizard/Exams_42/tree/463f9d6f63fe7e688d7c3f873a5035a945ba8809/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strlen)
+- [ ] First_word
+- [ ] Last_word
+- [ ] Putstr
+- [ ] Ft_strcpy
+- [ ] Ft_swap
+- [ ] Repeat_alpha
+- [ ] Search_and_replace
+- [ ] Ulstr
+- [ ] Ft_strdup
+- [ ] Ft_strcmp
+- [ ] Ft_strcspn
+- [ ] Ft_strpbrk
+- [ ] Ft_strspn
+- [ ] Epur_str
+- [ ] Camel_to_snake
+- [ ] Snake_to_camel
+- [ ] Str_capitalizer
+- [ ] Expand_str
+- [ ] Rotone
+- [ ] Rot_13
+- [ ] Ft_split
+- [ ] Sort_list
+- [ ] Inter
+- [ ] Union
+- [ ] Flood_fill
+- [ ] Hidenp
 
-- First_word
-- last_word
-- putstr
-- Ft_strcpy
-- Ft_swap
-- Repeat_alpha
-- Search_and_replace
-- Ulstr
-- ft_strdup
-- ft_strcmp
-- ft_strcspn
-- ft_strpbrk
-- ft_strspn
-- epur_str
-- camel_to_snake
-- snake_to_camel
-- str_capitalizer
-- expand_str
-- rotone
-- rot_13
-- ft_split
-- sort_list
-- inter
-- union
-- flood_fill
-- hidenp
+## 2. Characters (Reverse Order)
 
-### 2. Characters (Reverse Order)
-- reve_print
-- rstr_capitalizer
-- Rostring
-- ft_strrev
-- rev_wstr
+- [ ] Reve_print
+- [ ] Rstr_capitalizer
+- [ ] Rostring
+- [ ] Ft_strrev
+- [ ] Rev_wstr
 
+## 3. Integers
 
-### 3. Integers
-- paramsum
-- ft_range
-- ft_rrange
-- tab_mult
-- Fizzbuzz
-- max
-- add_prime_sum
-- ft_atoi
-- is_power_of_2
-- ft_atoi_base
-- do_op
-- pgcd
-- lcm
-- print_hex
+- [ ] Paramsum
+- [ ] Ft_range
+- [ ] Ft_rrange
+- [ ] Tab_mult
+- [ ] Fizzbuzz
+- [ ] Max
+- [ ] Add_prime_sum
+- [ ] Ft_atoi
+- [ ] Is_power_of_2
+- [ ] Ft_atoi_base
+- [ ] Do_op
+- [ ] Pgcd
+- [ ] Lcm
+- [ ] Print_hex
 
-### 4. Bits
-- print_bits
-- reverse_bits
-- swap_bits
+## 4. Bits
 
-### 5. Linked Lists
-- ft_list_size
-- ft_list_foreach
-- ft_list_remove_if
+- [ ] Print_bits
+- [ ] Reverse_bits
+- [ ] Swap_bits
 
+## 5. Linked Lists
 
+- [ ] Ft_list_size
+- [ ] Ft_list_foreach
+- [ ] Ft_list_remove_if
 
 
 
