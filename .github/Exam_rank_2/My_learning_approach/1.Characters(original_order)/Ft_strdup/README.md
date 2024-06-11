@@ -1,9 +1,8 @@
 ## Ft_strdup
 
+### Subject
 
 ```bash
-Subject
-
 
 Assignment name  : ft_strdup
 Expected files   : ft_strdup.c
@@ -16,3 +15,6 @@ Your function must be declared as follows:
 
 char    *ft_strdup(char *src);
 ```
+
+
+---
