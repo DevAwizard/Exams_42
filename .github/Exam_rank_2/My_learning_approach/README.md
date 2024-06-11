@@ -7,7 +7,7 @@
 
 <p style="font-family: Arial, sans-serif; line-height:1.8; font-size:18px; color:#333;">Although there are 4 levels in exam rank 2, my learning process is different. I divide these functions into 5 categories:</p>
 
-<ul style="font-family: Arial, sans-serif; line-height:1.8; font-size:18px; color:#333; list-style-type: square; margin-left:20px;">
+<ul style="font-family: Arial, sans-serif; line-height:1.8; font-size:20px; color:#333; list-style-type: square; margin-left:20px;">
     <li>Characters (original order)</li>
     <li>Characters (reverse order)</li>
     <li>Integers</li>
