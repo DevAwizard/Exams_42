@@ -1,4 +1,4 @@
-<img src="../../Wallpaper/sunset.gif" alt="sunset" width="400" height="300">
+<img src="../../Wallpaper/Sunset.gif" alt="sunset" width="400" height="300">
 
 # 💡 Exam guide
 
