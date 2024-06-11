@@ -3,18 +3,19 @@
 [![Progress](https://img.shields.io/badge/Progress-In%20Progress-yellow)](https://github.com/DevAwizard/Exams_42) 
 
 
-Although there are 4 levels in exam rank 2, my learning process is different. I divide these functions into 5 categories:
-
-- Characters (original order)
-- Characters (reverse order)
-- Integers
-- Bits
-- Linked lists
-
-I started with Characters (original order), then Characters (reverse order), followed by Integers, Bits, and finally Linked lists. Within each category, I organized the tasks from easiest to hardest according to my criteria.
-
-
 <img src="https://github.com/DevAwizard/Exams_42/assets/153505451/3313b894-7da6-4f0d-8fa9-1363b944ec8b" alt="anime-sad" width="1000" height="500">
+
+<p style="font-family: Arial, sans-serif; line-height:1.6; font-size:16px; color:#333;">Although there are 4 levels in exam rank 2, my learning process is different. I divide these functions into 5 categories:</p>
+
+<ul style="font-family: Arial, sans-serif; line-height:1.6; font-size:16px; color:#333; list-style-type: square; margin-left:20px;">
+    <li>Characters (original order)</li>
+    <li>Characters (reverse order)</li>
+    <li>Integers</li>
+    <li>Bits</li>
+    <li>Linked lists</li>
+</ul>
+
+<p style="font-family: Arial, sans-serif; line-height:1.6; font-size:16px; color:#333;">I started with Characters (original order), then Characters (reverse order), followed by Integers, Bits, and finally Linked lists. Within each category, I organized the tasks from easiest to hardest according to my criteria.</p>
 
 
 ## 1. Characters (Original Order)
