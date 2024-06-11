@@ -29,7 +29,7 @@
 
 ## Relevant info
 
-### Library Functions
+### Useful Library Headers
 
 <table>
     <thead>
@@ -62,7 +62,7 @@
     </tbody>
 </table>
 
-### ASCII Table
+### ASCII Table 
 
 <table>
     <thead>
