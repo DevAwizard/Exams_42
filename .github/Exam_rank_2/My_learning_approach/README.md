@@ -11,11 +11,14 @@ Although there are 4 levels in exam rank 2, my learning process is different. I 
 I started with Characters (original order), then Characters (reverse order), followed by Integers, Bits, and finally Linked lists. Within each category, I organized the tasks from easiest to hardest according to my criteria.
 
 ### 1. Characters (Original Order)
+- [Ft_strlen](https://github.com/DevAwizard/Exams_42/tree/463f9d6f63fe7e688d7c3f873a5035a945ba8809/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strlen)
+
+
+
 - First_word
 - last_word
 - putstr
 - Ft_strcpy
-- Ft_strlen
 - Ft_swap
 - Repeat_alpha
 - Search_and_replace
