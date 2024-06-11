@@ -27,9 +27,9 @@
 </div>
 
 
-# Relevant info
+## Relevant info
 
-## Library Functions
+### Library Functions
 
 <table>
     <thead>
@@ -62,7 +62,7 @@
     </tbody>
 </table>
 
-## ASCII Table
+### ASCII Table
 
 <table>
     <thead>
