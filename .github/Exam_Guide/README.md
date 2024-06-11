@@ -1,4 +1,4 @@
-<img src="https://github.com/DevAwizard/Exam_42/assets/153505451/93d8b239-853b-489e-b558-cbf18265b624" alt="sunset" width="1000" height="450">
+<img src="../../Wallpaper/sunset.gif" alt="sunset" width="400" height="300">
 
 # 💡 Exam guide
 
