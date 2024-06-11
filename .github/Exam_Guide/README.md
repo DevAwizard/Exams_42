@@ -42,4 +42,6 @@
     <p>Practice the exam just like you would in the real exam using this tool - <a href="https://github.com/JCluzet/42_EXAM">Exam Practice Tool</a></p>
   </blockquote>
 </div>
+
+</div>
 ---
