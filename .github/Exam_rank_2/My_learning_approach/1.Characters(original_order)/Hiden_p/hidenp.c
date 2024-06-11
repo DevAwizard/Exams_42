@@ -10,6 +10,8 @@ Example:
 "hola" "holaaaa" -> 1
 */
 
+// Main program
+
 int main (int argc, char **argv)
 {
 	int index_s1;
