@@ -1,5 +1,4 @@
-// Always include Headlines, if you want to compile the program
-
+c
 # include <stdio.h>
 
 // Function prototype
@@ -22,7 +21,7 @@ int main (void)
 {
 	char s1[] = "Hello";
 	char s2[] = "Hello0";
-	char s3[] = "42 uptoo";
+	char s3[] = "41 uptoo";
 	char s4[] = "42 uptoo";
 	char s5[] = "Hello friend, good luck 111";
 	char s6[] = "Bye, seeya";
