@@ -8,8 +8,6 @@
   <h1>Welcome to the 42 Exams Repository</h1>
 </div>
 
-All 42 School Exams from Rank 02 to 06, including guides, resources, and solutions to help you succeed.
-
 <table>
 <tr>
 <th style="font-size: 24px;">Common Core Exams</th>
