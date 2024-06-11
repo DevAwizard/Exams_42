@@ -1,8 +1,9 @@
-## Last_word
+# Last_word
 
-### Subject
 
 ```bash
+Subject
+
 Assignment name  : last_word
 Expected files   : last_word.c
 Allowed functions: write
