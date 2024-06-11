@@ -1,8 +1,8 @@
 # Alpha_mirror
 
-### Subject
-
 ```bash
+Subject
+
 Assignment name  : alpha_mirror
 Expected files   : alpha_mirror.c
 Allowed functions: write
