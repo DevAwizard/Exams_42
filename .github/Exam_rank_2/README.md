@@ -28,8 +28,6 @@
   </tr>
 </table>
 
-![mouse](https://github.com/DevAwizard/Exams_42/assets/153505451/dde1a055-cb81-455c-b7e1-4cfd9dbddddb)
-
 
 ## Levels
 
