@@ -6,13 +6,12 @@
 # 💡 Exam guide
 
 
-<div align="center">
-  <table>
-    <tr>
-      <th align="center"><span style="font-size:30px">📚 Common Core Exams</span></th>
-    </tr>
-    <tr>
-      <td>
+<table>
+<tr>
+<th align="center"><h2>Common Core Exams</h2></th>
+</tr>
+<tr>
+<td>
 
 | Exam Number | Exam | Number of Questions | Includes |
 |--|--|--|--|
