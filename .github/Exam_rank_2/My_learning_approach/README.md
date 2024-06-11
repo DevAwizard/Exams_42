@@ -41,7 +41,6 @@ I started with Characters (original order), then Characters (reverse order), fol
 
 ### 2. Characters (Reverse Order)
 - reve_print
-
 - rstr_capitalizer
 - Rostring
 - ft_strrev
@@ -67,13 +66,12 @@ I started with Characters (original order), then Characters (reverse order), fol
 ### 4. Bits
 - print_bits
 - reverse_bits
+- swap_bits
 
 ### 5. Linked Lists
 - ft_list_size
 - ft_list_foreach
 - ft_list_remove_if
-
-
 
 
 
