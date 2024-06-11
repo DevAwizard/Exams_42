@@ -6,14 +6,13 @@
 # 💡 Exam guide
 
 
-<table>
-<tr>
 <div align="center">
-
-<th align="center"><h2>Common Core Exams</h2></th>
-</tr>
-<tr>
-<td>
+  <table>
+    <tr>
+      <th align="center"><span style="font-size:30px">📚 Common Core Exams</span></th>
+    </tr>
+    <tr>
+      <td>
 
 | Exam Number | Exam | Number of Questions | Includes |
 |--|--|--|--|
@@ -24,11 +23,8 @@
 | 🏆 Last Exam | 📙 [Exam Rank 06](https://github.com/DevAwizard/Exams_42/tree/4a297ae4e6d9727cebd6e2decb43628ba0ed6f45/.github/Exam_rank_6) | 1 | Mini_Serv |
 
 </td>
-</tr>
-</table>
-
-<br>
-  
+    </tr>
+  </table>
 </div>
 
 
