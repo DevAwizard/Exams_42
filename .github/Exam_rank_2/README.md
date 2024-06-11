@@ -27,6 +27,7 @@
     <td>My approach to preparing for this exam is unique. I focus on understanding the core concepts deeply and practice a variety of problems to ensure a well-rounded understanding. Rather than just aiming to pass, I pursue a different strategy that involves exploring multiple solutions and understanding the underlying principles. This approach helps in tackling the questions more efficiently and effectively during the exam.</td>
   </tr>
 </table>
+
 ![mouse](https://github.com/DevAwizard/Exams_42/assets/153505451/dde1a055-cb81-455c-b7e1-4cfd9dbddddb)
 
 
