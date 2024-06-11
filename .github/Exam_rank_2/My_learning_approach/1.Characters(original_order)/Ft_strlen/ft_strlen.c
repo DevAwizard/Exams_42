@@ -1,4 +1,6 @@
-# include <stdio.h> // Header file -> printf
+// Always include Headlines, if you want to compile the program
+
+# include <stdio.h> // printf
 
 int ft_strlen(char *string)
 {
