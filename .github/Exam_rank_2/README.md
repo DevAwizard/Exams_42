@@ -23,7 +23,7 @@
 
 #### 🟢 **Level 1**
 - **Tasks:** 
-  - [First_word] (https://github.com/DevAwizard/Exams_42/tree/04f6cc37208f21bbb6774179fbced432e60616c0/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/First_word)
+  - [First_word](https://github.com/DevAwizard/Exams_42/tree/04f6cc37208f21bbb6774179fbced432e60616c0/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/First_word)
   - [Fizzbuzz]
   - [Ft_strcpy]
   - [Ft_strlen]
