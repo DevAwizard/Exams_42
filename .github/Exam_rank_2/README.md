@@ -8,21 +8,19 @@
 
 
 
-## Exam Details
+## Exam Details 🧐
 
-- This exam has 4 Levels, with 1 question from each level.
+- The exam has 4 levels, with 1 random question from each level.
 
-- A random question is picked from each level below.
+- Failing the exam allows you to retake it without restarting from Level 1.
 
-- If you fail the exam, when you retake the exam again, you will restart at Level 1.
+- **No Norminette** is applied.
 
-- There is <ins>**No Norminette**</ins> in this exam.
+- Log in within the first 10 minutes or you will be asked to leave.
 
-- Remember to log in before 10 minutes have passed, if not you will not be able to continue with the exam. Staff will ask you to leave the place.
+- No internet or phones allowed.
 
-- No internet, no phones.
-
-- Only a white paper, pen or pencil.
+- Only white paper, pen, or pencil permitted.
 
 
 
