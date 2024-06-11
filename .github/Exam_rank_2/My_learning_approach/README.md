@@ -1,6 +1,9 @@
 ## My Learning Approach
 
 [![Progress](https://img.shields.io/badge/Progress-In%20Progress-yellow)](https://github.com/DevAwizard/Exams_42) 
+![anime-sad](https://github.com/DevAwizard/Exams_42/assets/153505451/3313b894-7da6-4f0d-8fa9-1363b944ec8b)
+
+
 
 Although there are 4 levels in exam rank 2, my learning process is different. I divide these functions into 5 categories:
 
