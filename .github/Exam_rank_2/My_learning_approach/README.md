@@ -21,19 +21,19 @@
 
 | Number | Function | Description |
 |--------|-----------|-------------|
-| 1 | [Ft_strlen](https://github.com/DevAwizard/Exams_42/tree/463f9d6f63fe7e688d7c3f873a5035a945ba8809/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strlen) | Returns the length of a string |
-| 2 | [Putstr](https://github.com/DevAwizard/Exams_42/tree/6bbe34b92df20e75763df920e0751c7cc5cdab33/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_putstr) | Prints a string to the standard output |
-| 3 | [Ft_strcmp](https://github.com/DevAwizard/Exams_42/tree/0ca57fd92285d0b96fb7b2cb205fbb645e49a937/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strcmp) | Compares two strings |
-| 4 | [Ft_strdup](https://github.com/DevAwizard/Exams_42/tree/0ca57fd92285d0b96fb7b2cb205fbb645e49a937/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strdup) | Duplicates a string |
-| 5 | [Ulstr](https://github.com/DevAwizard/Exams_42/tree/ab59dc5cc1b307ec240f2956d3d393a68176f43d/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ulstr)| Converts a string to uppercase |
+| 1 | [Ft_strlen] | Returns the length of a string |
+| 2 | [Putstr]| Prints a string to the standard output |
+| 3 | [Ft_strcmp]| Compares two strings |
+| 4 | [Ft_strdup]| Duplicates a string |
+| 5 | [Ulstr])| Converts a string to uppercase |
 | 6 | [Str_capitalizer] | Capitalizes the first letter of each word in a string |
-| 7 | [First_word](https://github.com/DevAwizard/Exams_42/tree/04f6cc37208f21bbb6774179fbced432e60616c0/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/First_word) | Extracts the first word from a string |
+| 7 | [First_word] | Extracts the first word from a string |
 | 8 | [Last_word] | Extracts the last word from a string |
-| 9 | [Camel_to_snake] | Converts CamelCase to snake_case |
+| 9 | [Camel_to_snake](.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Camel_to_snake) | Converts CamelCase to snake_case |
 | 10 | [Snake_to_camel] | Converts snake_case to CamelCase |
-| 11 | [Epur_str] | Removes extra spaces from a string |
-| 12 | [Expand_str] | Expands spaces in a string |
-| 13 | [Alpha_mirror] | Mirrors the alphabet in a string |
+| 11 | [Epur_str](.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Epur_str) | Removes extra spaces from a string |
+| 12 | [Expand_str](.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Expand_str) | Expands spaces in a string |
+| 13 | [Alpha_mirror](.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Alpha_mirror)| Mirrors the alphabet in a string |
 | 14 | [Search_and_replace] | Replaces characters in a string |
 | 15 | [Rot_one] | Applies ROT1 cipher to a string |
 | 16 | [Rot_13] | Applies ROT13 cipher to a string |
