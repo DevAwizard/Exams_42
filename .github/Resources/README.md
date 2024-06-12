@@ -113,7 +113,7 @@
 
 - **`argv`** = argument vector
 
-- **`str`** = string
+- **`Str`** = string
 
 
 
