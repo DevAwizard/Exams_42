@@ -37,7 +37,7 @@
 </div>
 
 <div style="flex: 1;">
-    <h3>ASCII Table</h3>
+   ### [ASCII Table]([https://www.asciitable.com](https://theasciicode.com.ar/)
     <table>
         <thead>
             <tr>
