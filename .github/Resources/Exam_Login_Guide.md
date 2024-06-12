@@ -49,6 +49,9 @@ When you are ready to submit your function/program, go into `Rendu` and push the
 
 
 
+
+
+
 > [!NOTE]
 > You can use both VSCode and Vim during the exam. 👩🏻‍💻
 >
