@@ -44,7 +44,6 @@
 <div style="flex: 1;">
     <h3>ASCII TABLE</h3>
     <table>
-            <h3>ASCII TABLE</h3>
         <thead>
             <tr>
                 <th>Description</th>
@@ -101,7 +100,6 @@
         </tbody>
     </table>
 </div>
-
 </div>
 
 
