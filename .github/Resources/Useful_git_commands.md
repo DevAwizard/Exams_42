@@ -62,7 +62,6 @@
   ```sh
   git diff
 
-
 ### 🌿 Branching and Merging
 
 - **Create a new branch:**
