@@ -81,47 +81,28 @@
   </tr>
 </table>
 
-  - [alpha_mirror](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Alpha_mirror)
-  
-  - [camel_to_snake](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Camel_to_snake)
-  
-  - [do_op](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Do_op)
-  
-  - [ft_atoi](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_atoi)
-  
-  - [ft_strcmp](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strcmp)
-  
-  - [ft_strcspn](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strcspn)
-  
-  - [ft_strdup](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strdup)
-  
-  - [ft_strpbrk](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strpbrk)
-  
-  - [ft_strrev](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Ft_strrev)
-  
-  - [ft_strspn](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strspn)
-  
-  - [inter](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Inter)
-  
-  - [is_power_of_2](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Is_power_of_2)
-  
-  - [last_word](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Last_word)
-  
-  - [max](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Max)
-  
-  - [print_bits](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/4.Bits/Print_bits)
-  
-  - [reverse_bits](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/4.Bits/Reverse_bits)
-  
-  - [snake_to_camel](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Snake_to_camel)
-  
-  - [swap_bits](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/4.Bits/Swap_bits)
-  
-  - [union](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Union)
-  
-  - [wdmatch](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Wd_match)
-
+ 
 #### 🟠 **Level 3**
+
+<table>
+  <tr>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Add_prime_sum">add_prime_sum</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Epur_str">epur_str</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Expand_str">expand_str</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_atoi_base">ft_atoi_base</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Ft_list_size">ft_list_size</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_range">ft_range</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_rrange">ft_rrange</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Hiden_p">hidenp</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Lmc">lcm</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Parasum">paramsum</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Pgcd">pgcd</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Print_hex">print_hex</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Rstr_capitalizer">rstr_capitalizer</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Str_capitalizer">str_capitalizer</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Tab_mult">tab_mult</a></td>
+  </tr>
+</table>
 
   - [add_prime_sum](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Add_prime_sum)
   
