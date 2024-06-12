@@ -77,7 +77,7 @@
   - [add_prime_sum]
   - [epur_str](.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Epur_str)
   - [expand_str](.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Expand_str)
-  - [ft_atoi_base]
+  - [ft_atoi_base](
   - [ft_list_size]
   - [ft_range]
   - [ft_rrange]
