@@ -74,12 +74,12 @@
 | 10 | [Max] | Finds the maximum value in an array of integers |
 | 11 | [Pgcd] | Finds the greatest common divisor of two integers |
 | 12 | [Tab_mult] | Prints the multiplication table |
-| 13 | [Do_op] | Performs basic arithmetic operations |
-| 14 | [Add_prime_sum] | Sums prime numbers up to a given number |
-| 15 | [Ft_range] | Creates an array of integers from a range |
-| 16 | [Ft_rrange] | Creates an array of integers from a range in reverse |
-| 17 | [Sort_int_tab] | Sorts an array of integers |
-
+| 13 | [Do_op](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Do_op) | Performs basic arithmetic operations |
+| 14 | [Add_prime_sum](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Add_prime_sum) | Sums prime numbers up to a given number |
+| 15 | [F_prime](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/F_prime) | Decomposes a number into its prime factors and prints them in multiplicative format |
+| 16 | [Ft_range]  | Creates an array of integers from a range |
+| 17 | [Ft_rrange] | Creates an array of integers from a range in reverse | 
+| 18 | [Sort_int_tab] | Sorts an array of integers
 ## 4. Bits
 
 | Number | Function | Description |
@@ -92,10 +92,10 @@
 
 | Number | Function | Description |
 |--------|-----------|-------------|
-| 1 | [Ft_list_size] | Returns the size of a linked list |
-| 2 | [Ft_list_foreach] | Applies a function to each element of a linked list |
-| 3 | [Ft_list_remove_if] | Removes elements from a linked list that match a condition |
-| 4 | [Sort_list] | Sorts a linked list |
+| 1 | [Ft_list_size](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Ft_list_size) | Returns the size of a linked list |
+| 2 | [Ft_list_foreach](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Ft_list_foreach) | Applies a function to each element of a linked list |
+| 3 | [Ft_list_remove_if](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Ft_list_remove_if) | Removes elements from a linked list that match a condition |
+| 4 | [Sort_list](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Sort_list) | Sorts a linked list |
 
 
 
