@@ -32,11 +32,6 @@
                 <td>stddef.h</td>
                 <td>NULL, size_t</td>
             </tr>
-            <tr>
-                <td>stdbool.h</td>
-                <td>bool</td>
-            </tr>
-            
         </tbody>
     </table>
 </div>
@@ -100,6 +95,7 @@
         </tbody>
     </table>
 </div>
+
 </div>
 
 
