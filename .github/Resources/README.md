@@ -113,6 +113,8 @@
 
 - **`argv`** = argument vector
 
+- **`Str`** = string
+
 
 
 ## Other Resources
