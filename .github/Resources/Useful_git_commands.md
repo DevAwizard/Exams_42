@@ -6,17 +6,17 @@
   git clone <repository-url>
 
 - **Create a new repository:**
-```sh
-git init
-```
+  ```sh
+  git init
+
 
 ### 📄 File Operations
 
 - **Add files to staging area:**
 
-```sh
-git add <file-name>
-```
+  ```sh
+  git add <file-name>
+
 - **or add all changes:**
 
 ```sh
