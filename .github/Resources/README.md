@@ -99,6 +99,16 @@
 </div>
 
 
+## Commoly used abbreviations
+
+- **`Int`** = integer
+
+- **`Char`** = character
+
+- **`argc`** = argument count
+
+- **`argv`** = argument vector
+
 
 
 ## Other Resources
