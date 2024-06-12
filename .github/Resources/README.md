@@ -109,7 +109,10 @@
 
 ### Documentation & Tutorials
 - [GeeksforGeeks](https://www.geeksforgeeks.org)
-- [w3schools](https://www.w3schools.com)
+- [W3schools](https://www.w3schools.com)
+- [Learn C](https://www.learn-c.org/)
+- [Code academy](https://www.codecademy.com/)
+- [Free Code camp](https://www.freecodecamp.org/)
 
 ### Community & Forums
 - [Stack Overflow](https://stackoverflow.com)
