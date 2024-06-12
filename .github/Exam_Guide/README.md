@@ -30,7 +30,7 @@
 
 
 > [!IMPORTANT]
-> Log in within the first 10 minutes or you will be asked to leave. 🔟⌛️
+> Log in within the first 10 minutes or you will be asked to leave. ⌛️
 >
 > If you don't know how to log in to the exam, check the [Exam Login Guide](https://github.com/DevAwizard/Exams_42/blob/main/.github/Resources/Exam_Login_Guide.md) 🤨
 > 
