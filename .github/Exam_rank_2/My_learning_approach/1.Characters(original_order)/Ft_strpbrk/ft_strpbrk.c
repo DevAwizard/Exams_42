@@ -31,6 +31,7 @@ char *ft_strpbrk(const char *s1, const char *s2)
 		while (s2[index_s2] != '\0')
 		{
 			if (s1[index_s1] == s2[index_s2])
+				// Returns a pointer to the character in s1
 				return ((char *) &s1[index_s1]);
 			
 			index_s2++;
