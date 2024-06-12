@@ -9,7 +9,6 @@
   ```sh
   git init
 
-
 ### 📄 File Operations
 
 - **Add files to staging area:**
