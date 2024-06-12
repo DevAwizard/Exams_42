@@ -45,10 +45,11 @@ When you are ready to submit your function/program, go into `Rendu` and push the
 
 
 
-
 > [!NOTE]
 > You can use both VSCode and Vim during the exam. 👩🏻‍💻
 >
 > Always ensure you check the name of the folder and file. ✅
+>
+> Check also [useful git commands]
 
 ---
