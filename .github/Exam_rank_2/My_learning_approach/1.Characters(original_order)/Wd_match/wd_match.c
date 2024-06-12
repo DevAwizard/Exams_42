@@ -37,11 +37,14 @@ char *wd_match(char *string_s1, char *string_s2)
 			}
 			index_s2++;
 		}
+
 		if (string_s1[index_s1] == '\0')
 			break ;
 	}
+
 	if (string_s1[index_s1] == '\0')
 		return (string_s1);
+	
 	return(NULL);
 }
 
