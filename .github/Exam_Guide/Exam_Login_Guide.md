@@ -19,7 +19,7 @@
 
 **6️⃣ In the Exam Shell, You Have Only The Following 3 Commands:**
 - `status` - check the time and other things
-- `grademe` - check the pushed exercise (moulinet)
+- `grademe` - submit the exercise to be corrected by moulinet
 - `finish` - close examshell and finish exam
 
 **7️⃣ Open a New iTerm or VSCode:**
@@ -44,6 +44,11 @@ When you are ready to submit your function/program, go into `Rendu` and push the
 5️⃣ After you `git push`, type `grademe` in the examshell for your project to be evaluated.
 
 
-Check also [useful git commands]
+
+
+> [!NOTE]
+> You can use both VSCode and Vim during the exam. 👩🏻‍💻
+>
+> Always ensure you check the name of the folder and file. ✅
 
 ---
