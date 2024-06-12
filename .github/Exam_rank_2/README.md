@@ -17,7 +17,7 @@
 - **No Norminette** is applied.
 
 
-## [My Personal Approach](https://github.com/DevAwizard/Exams_42/tree/7fcca24471415e94c6943121f2cb7877bcd13b4e/.github/Exam_rank_2/My_learning_approach)
+## [My Personal Approach](.github/Exam_rank_2/My_learning_approach)
 
 <table>
   <tr>
@@ -36,12 +36,12 @@
 
 #### 🟢 **Level 1**
 - **Tasks:** 
-  - [First_word](https://github.com/DevAwizard/Exams_42/tree/04f6cc37208f21bbb6774179fbced432e60616c0/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/First_word)
+  - [First_word]
   - [Fizzbuzz]
   - [Ft_strcpy]
-  - [Ft_strlen](https://github.com/DevAwizard/Exams_42/tree/da5197f3109fcf3d5e7c2267768e5899d69d43e4/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strlen)
+  - [Ft_strlen]
   - [Ft_swap]
-  - [putstr](https://github.com/DevAwizard/Exams_42/tree/da5197f3109fcf3d5e7c2267768e5899d69d43e4/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_putstr)
+  - [putstr]
   - [Repeat_alpha]
   - [reve_print]
   - [rot_13]
@@ -51,23 +51,23 @@
 
 #### 🔵 **Level 2**
 - **Tasks:** 
-  - [alpha_mirror]
-  - [camel_to_snake](https://github.com/DevAwizard/Exams_42/tree/da5197f3109fcf3d5e7c2267768e5899d69d43e4/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Camel_to_snake)
+  - [alpha_mirror](.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Alpha_mirror)
+  - [camel_to_snake](.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Camel_to_snake)
   - [do_op]
   - [ft_atoi]
-  - [ft_strcmp](https://github.com/DevAwizard/Exams_42/tree/da5197f3109fcf3d5e7c2267768e5899d69d43e4/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strcmp)
+  - [ft_strcmp]
   - [ft_strcspn]
-  - [ft_strdup](https://github.com/DevAwizard/Exams_42/tree/da5197f3109fcf3d5e7c2267768e5899d69d43e4/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strdup)
+  - [ft_strdup]
   - [ft_strpbrk]
   - [ft_strrev]
   - [ft_strspn]
   - [inter]
   - [is_power_of_2]
-  - [last_word](https://github.com/DevAwizard/Exams_42/tree/da5197f3109fcf3d5e7c2267768e5899d69d43e4/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Last_word)
+  - [last_word]
   - [max]
   - [print_bits]
   - [reverse_bits]
-  - [snake_to_camel](https://github.com/DevAwizard/Exams_42/tree/da5197f3109fcf3d5e7c2267768e5899d69d43e4/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Snake_to_camel)
+  - [snake_to_camel]
   - [swap_bits]
   - [union]]
   - [wdmatch]
@@ -75,8 +75,8 @@
 #### 🟠 **Level 3**
 - **Tasks:** 
   - [add_prime_sum]
-  - [epur_str](
-  - [expand_str]
+  - [epur_str](.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Epur_str)
+  - [expand_str](.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Expand_str)
   - [ft_atoi_base]
   - [ft_list_size]
   - [ft_range]
