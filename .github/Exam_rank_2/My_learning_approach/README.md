@@ -38,7 +38,7 @@
 | 15 | [Rot_one](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Rot_one) | Applies ROT1 cipher to a string |
 | 16 | [Rot_13](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Rot_13) | Applies ROT13 cipher to a string |
 | 17 | [Ft_strspn](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strspn) | Gets the length of a prefix substring |
-| 18 | [Ft_strcspn]((https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strcspn)) | Calculates the length of the initial segment not containing any characters in a specified set |
+| 18 | [Ft_strcspn](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strcspn) | Calculates the length of the initial segment not containing any characters in a specified set |
 | 19 | [Ft_strpbrk](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strpbrk) | Searches a string for any set of bytes |
 | 20 | [Repeat_alpha](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Repeat_alpha) | Repeats each alphabet character in a string |
 | 21 | [Hiden_p](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Hiden_p) | Checks if a string is hidden in another string |
