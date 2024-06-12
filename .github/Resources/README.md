@@ -36,7 +36,6 @@
                 <td>stdbool.h</td>
                 <td>bool</td>
             </tr>
-        
         </tbody>
     </table>
 </div>
