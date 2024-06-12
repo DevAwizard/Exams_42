@@ -105,7 +105,7 @@
 
 - **`Char`** = character
 
-- **`argc`** = argument count
+- **`argc`** = argument counter
 
 - **`argv`** = argument vector
 
