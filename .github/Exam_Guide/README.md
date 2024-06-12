@@ -46,7 +46,7 @@
 
 
 > [!NOTE]
-> Any suggestions to improve the code are welcome!
+> Any suggestions to improve the code are welcome! 🙏
 
 
 
