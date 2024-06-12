@@ -84,9 +84,9 @@
 
 | Number | Function | Description |
 |--------|-----------|-------------|
-| 1 | [Swap_bits] | Swaps the bits of an integer |
-| 2 | [Print_bits] | Prints the binary representation of a byte |
-| 3 | [Reverse_bits] | Reverses the bits of a byte |
+| 1 | [Swap_bits](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/4.Bits/Swap_bits) | Swaps the bits of an integer |
+| 2 | [Print_bits](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/4.Bits/Print_bits) | Prints the binary representation of a byte |
+| 3 | [Reverse_bits](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/4.Bits/Reverse_bits) | Reverses the bits of a byte |
 
 ## 5. Linked Lists
 
