@@ -50,7 +50,7 @@
 > [!TIP]
 >  Practice the exam just like you would in the real exam using this tool [Exam Practice Tool](https://github.com/JCluzet/42_EXAM) - [Grademe](https://grademe.fr/)
 >
-> [Additional Resources]
+> [Additional Resources](https://github.com/DevAwizard/Exams_42/blob/fdb2d5dec210be01ed2238dcab5136ffec66bebe/.github/Resources/README.md)
 
 
 
