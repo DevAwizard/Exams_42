@@ -57,6 +57,6 @@ When you are ready to submit your function/program, go into `Rendu` and push the
 >
 > Always ensure you check the name of the folder and file. ✅
 >
-> Check also [useful git commands](https://github.com/DevAwizard/Exams_42/blob/85f054a01928540ae34785cc7974b81453a164bb/.github/Resources/Useful_git_commands.md)
+> Check also [useful git commands](https://github.com/DevAwizard/Exams_42/blob/main/.github/Resources/Useful_git_commands.md)
 
 ---
