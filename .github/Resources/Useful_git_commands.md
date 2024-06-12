@@ -96,6 +96,4 @@
   ```sh
   git reset --hard
 
-
-
 ---
