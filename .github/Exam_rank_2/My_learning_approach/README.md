@@ -21,32 +21,32 @@
 
 | Number | Function | Description |
 |--------|-----------|-------------|
-| 1 | [Ft_strlen] | Returns the length of a string |
-| 2 | [Putstr]| Prints a string to the standard output |
-| 3 | [Ft_strcmp]| Compares two strings |
-| 4 | [Ft_strdup]| Duplicates a string |
-| 5 | [Ulstr])| Converts a string to uppercase |
-| 6 | [Str_capitalizer] | Capitalizes the first letter of each word in a string |
-| 7 | [First_word] | Extracts the first word from a string |
-| 8 | [Last_word] | Extracts the last word from a string |
-| 9 | [Camel_to_snake](.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Camel_to_snake) | Converts CamelCase to snake_case |
-| 10 | [Snake_to_camel] | Converts snake_case to CamelCase |
-| 11 | [Epur_str](.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Epur_str) | Removes extra spaces from a string |
-| 12 | [Expand_str](.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Expand_str) | Expands spaces in a string |
-| 13 | [Alpha_mirror](.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Alpha_mirror)| Mirrors the alphabet in a string |
-| 14 | [Search_and_replace] | Replaces characters in a string |
-| 15 | [Rot_one] | Applies ROT1 cipher to a string |
-| 16 | [Rot_13] | Applies ROT13 cipher to a string |
-| 17 | [Ft_strspn]| Gets the length of a prefix substring |
-| 18 | [Ft_strcspn] | Calculates the length of the initial segment not containing any characters in a specified set |
-| 19 | [Ft_strpbrk] | Searches a string for any set of bytes |
-| 20 | [Repeat_alpha] | Repeats each alphabet character in a string |
-| 21 | [Hiden_p] | Checks if a string is hidden in another string |
-| 22 | [Inter] | Finds the intersection of two strings |
-| 23 | [Wd_match] | Matches words in a string |
-| 24 | [Union] | Creates a union of two strings |
-| 25 | [Flood_fill] | Fills an area of memory with a specified character |
-| 26 | [Ft_split] | Splits a string into an array of words |
+| 1 | [Ft_strlen](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strlen) | Returns the length of a string |
+| 2 | [Putstr](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_putstr) | Prints a string to the standard output |
+| 3 | [Ft_strcmp](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strcmp) | Compares two strings |
+| 4 | [Ft_strdup](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strdup)| Duplicates a string |
+| 5 | [Ulstr](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ulstr) | Converts a string to uppercase |
+| 6 | [Str_capitalizer](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Str_capitalizer) | Capitalizes the first letter of each word in a string |
+| 7 | [First_word](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/First_word) | Extracts the first word from a string |
+| 8 | [Last_word](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Last_word) | Extracts the last word from a string |
+| 9 | [Camel_to_snake](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Camel_to_snake) | Converts CamelCase to snake_case |
+| 10 | [Snake_to_camel](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Snake_to_camel) | Converts snake_case to CamelCase |
+| 11 | [Epur_str](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Epur_str) | Removes extra spaces from a string |
+| 12 | [Expand_str](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Expand_str) | Expands spaces in a string |
+| 13 | [Alpha_mirror](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Alpha_mirror) | Mirrors the alphabet in a string |
+| 14 | [Search_and_replace](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Search_and_replace) | Replaces characters in a string |
+| 15 | [Rot_one](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Rot_one) | Applies ROT1 cipher to a string |
+| 16 | [Rot_13](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Rot_13) | Applies ROT13 cipher to a string |
+| 17 | [Ft_strspn](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strspn) | Gets the length of a prefix substring |
+| 18 | [Ft_strcspn]((https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strcspn)) | Calculates the length of the initial segment not containing any characters in a specified set |
+| 19 | [Ft_strpbrk](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_strpbrk) | Searches a string for any set of bytes |
+| 20 | [Repeat_alpha](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Repeat_alpha) | Repeats each alphabet character in a string |
+| 21 | [Hiden_p](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Hiden_p) | Checks if a string is hidden in another string |
+| 22 | [Inter](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Inter) | Finds the intersection of two strings |
+| 23 | [Wd_match](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Wd_match) | Matches words in a string |
+| 24 | [Union](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Union) | Creates a union of two strings |
+| 25 | [Flood_fill](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Flood_fill) | Fills an area of memory with a specified character |
+| 26 | [Ft_split](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_split) | Splits a string into an array of words |
 
 ## 2. Characters (Reverse Order)
 
