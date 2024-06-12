@@ -97,3 +97,25 @@
 </div>
 
 </div>
+
+
+
+
+## Additional Resources
+
+### Coding Platforms
+- [LeetCode](https://leetcode.com)
+- [HackerRank](https://www.hackerrank.com)
+
+### Documentation & Tutorials
+- [GeeksforGeeks](https://www.geeksforgeeks.org)
+- [w3schools](https://www.w3schools.com)
+
+### Community & Forums
+- [Stack Overflow](https://stackoverflow.com)
+- [Reddit Programming](https://www.reddit.com/r/programming)
+
+
+
+
+
