@@ -48,38 +48,41 @@
 | 25 | [Flood_fill](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Flood_fill) | Fills an area of memory with a specified character |
 | 26 | [Ft_split](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_split) | Splits a string into an array of words |
 
+
 ## 2. Characters (Reverse Order)
 
 | Number | Function | Description |
 |--------|-----------|-------------|
-| 1 | [Ft_strrev] | Reverses a string |
-| 2 | [Reve_print] | Prints a string in reverse |
-| 3 | [Rev_wstr] | Reverses the words in a string |
-| 4 | [Rostring] | Reverses the order of words in a string |
-| 5 | [Rstr_capitalizer] | Capitalizes the first letter of each word in reverse order |
+| 1 | [Ft_strrev](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Ft_strrev) | Reverses a string |
+| 2 | [Reve_print](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Reve_print) | Prints a string in reverse |
+| 3 | [Rev_wstr](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Rev_wstr) | Reverses the words in a string |
+| 4 | [Rostring](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Rostring) | Reverses the order of words in a string |
+| 5 | [Rstr_capitalizer](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Rstr_capitalizer) | Capitalizes the first letter of each word in reverse order |
+
 
 ## 3. Integers
 
 | Number | Function | Description |
 |--------|-----------|-------------|
-| 1 | [Ft_swap] | Swaps the values of two integers |
-| 2 | [Parasum] | Sums the parameters |
-| 3 | [Fizzbuzz] | Prints numbers with "Fizz", "Buzz", or "FizzBuzz" for multiples of 3, 5, or both |
-| 4 | [Ft_atoi] | Converts a string to an integer |
-| 5 | [Ft_atoi_base] | Converts a string to an integer with a given base |
-| 6 | [Ft_print_hex] | Prints an integer in hexadecimal |
-| 7 | [Ft_itoa] | Converts an integer to a string |
-| 8 | [Is_power_of_2] | Checks if a number is a power of 2 |
-| 9 | [Lmc] | Finds the least common multiple of two integers |
-| 10 | [Max] | Finds the maximum value in an array of integers |
-| 11 | [Pgcd] | Finds the greatest common divisor of two integers |
-| 12 | [Tab_mult] | Prints the multiplication table |
+| 1 | [Ft_swap](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_swap) | Swaps the values of two integers |
+| 2 | [Parasum](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Parasum) | Sums the parameters |
+| 3 | [Fizzbuzz](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Fizzbuzz) | Prints numbers with "Fizz", "Buzz", or "FizzBuzz" for multiples of 3, 5, or both |
+| 4 | [Ft_atoi](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_atoi) | Converts a string to an integer |
+| 5 | [Ft_atoi_base](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_atoi_base) | Converts a string to an integer with a given base |
+| 6 | [Ft_print_hex](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Print_hex) | Prints an integer in hexadecimal |
+| 7 | [Ft_itoa](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_itoa) | Converts an integer to a string |
+| 8 | [Is_power_of_2](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Is_power_of_2) | Checks if a number is a power of 2 |
+| 9 | [Lmc](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Lmc) | Finds the least common multiple of two integers |
+| 10 | [Max](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Max) | Finds the maximum value in an array of integers |
+| 11 | [Pgcd](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Pgcd) | Finds the greatest common divisor of two integers |
+| 12 | [Tab_mult](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Tab_mult) | Prints the multiplication table |
 | 13 | [Do_op](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Do_op) | Performs basic arithmetic operations |
 | 14 | [Add_prime_sum](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Add_prime_sum) | Sums prime numbers up to a given number |
 | 15 | [F_prime](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/F_prime) | Decomposes a number into its prime factors and prints them in multiplicative format |
-| 16 | [Ft_range]  | Creates an array of integers from a range |
-| 17 | [Ft_rrange] | Creates an array of integers from a range in reverse | 
-| 18 | [Sort_int_tab] | Sorts an array of integers
+| 16 | [Ft_range](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_range) | Creates an array of integers from a range |
+| 17 | [Ft_rrange](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_rrange) | Creates an array of integers from a range in reverse | 
+| 18 | [Sort_int_tab](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Sort_int_tab) | Sorts an array of integers
+
 ## 4. Bits
 
 | Number | Function | Description |
