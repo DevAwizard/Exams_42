@@ -33,7 +33,7 @@
                 <td>NULL, size_t</td>
             </tr>
             <tr>
-                <td>stdbool.h/td>
+                <td>stdbool.h</td>
                 <td>bool</td>
             </tr>
             
