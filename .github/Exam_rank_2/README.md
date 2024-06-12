@@ -104,58 +104,22 @@
   </tr>
 </table>
 
-  - [add_prime_sum](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Add_prime_sum)
-  
-  - [epur_str](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Epur_str)
-  
-  - [expand_str](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Expand_str)
-  
-  - [ft_atoi_base](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_atoi_base)
-  
-  - [ft_list_size](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Ft_list_size)
-  
-  - [ft_range](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_range)
-  
-  - [ft_rrange](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_rrange)
-  
-  - [hidenp](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Hiden_p)
-  
-  - [lcm](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Lmc)
-  
-  - [paramsum](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Parasum)
-  
-  - [pgcd](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Pgcd)
-  
-  - [print_hex](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Print_hex)
-  
-  - [rstr_capitalizer](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Rstr_capitalizer)
-  
-  - [str_capitalizer](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Str_capitalizer)
-  
-  - [tab_mult](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Tab_mult)
-
 #### 🔴 **Level 4**
 
-  - [flood_fill](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Flood_fill)
-  
-  - [fprime](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/F_prime)
-  
-  - [ft_itoa](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_itoa)
-  
-  - [ft_list_foreach](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Ft_list_foreach)
-  
-  - [ft_list_remove_if](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Ft_list_remove_if)
-  
-  - [ft_split](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_split)
-  
-  - [rev_wstr](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Rev_wstr)
-  
-  - [rostring](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Rostring)
-  
-  - [sort_int_tab](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Sort_int_tab)
-  
-  - [sort_list](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Sort_list)
-
+<table>
+  <tr>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Flood_fill">flood_fill</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/F_prime">fprime</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_itoa">ft_itoa</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Ft_list_foreach">ft_list_foreach</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Ft_list_remove_if">ft_list_remove_if</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_split">ft_split</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Rev_wstr">rev_wstr</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Rostring">rostring</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Sort_int_tab">sort_int_tab</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Sort_list">sort_list</a></td>
+  </tr>
+</table>
 
 
 ---
