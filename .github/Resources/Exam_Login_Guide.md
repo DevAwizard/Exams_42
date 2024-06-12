@@ -18,14 +18,18 @@
 - Type `y` or `yes`
 
 **6️⃣ In the Exam Shell, You Have Only The Following 3 Commands:**
-- `status` - check the time and other things
-- `grademe` - submit the exercise to be corrected by moulinet
-- `finish` - close examshell and finish exam
+  - `status` - check the time and other things
+  
+  - `grademe` - submit the exercise to be corrected by moulinet
+  
+  - `finish` - close examshell and finish exam
 
 **7️⃣ Open a New iTerm or VSCode:**
-- You can find your exam subject in the directory `subject`
-- In the directory `Rendu`, it is your repository
-- Create a folder named after the project and start working in that folder
+  - You can find your exam subject in the directory `subject`
+  
+  - In the directory `Rendu`, it is your repository
+  
+  - Create a folder named after the project and start working in that folder
 
 ---
 
