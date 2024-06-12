@@ -101,7 +101,7 @@
 
 
 
-## Additional Resources
+## Other Resources
 
 ### Coding Platforms
 - [LeetCode](https://leetcode.com)
