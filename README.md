@@ -25,4 +25,9 @@
 
 
 
+<p align="center">
+  Embrace the journey of learning; the joy lies in the process, not just the outcome.
+</p>
+
+
 ---
