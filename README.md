@@ -17,7 +17,7 @@
     <tr>
       <td>
 
-| 💻 [Exam Guide](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_Guide) | 📘 [Exam Rank 02](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2) | 📒 [Exam Rank 03](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_3) | 📙 [Exam Rank 04](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_4) | 📗 [Exam Rank 05](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_5) | 📕 [Exam Rank 06](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_6) |
+| 💻 [Exam Guide](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_Guide/README.md) | 📘 [Exam Rank 02](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2) | 📒 [Exam Rank 03](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_3) | 📙 [Exam Rank 04](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_4) | 📗 [Exam Rank 05](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_5) | 📕 [Exam Rank 06](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_6) |
 |--|--|--|--|--|--|
 
 </td>
