@@ -1,5 +1,8 @@
 # include <unistd.h>
 
+// Function that prints the numbers from 1 to 100. For multiples of 3, it prints "fizz", for multiples of 5, it prints "buzz", and for multiples of 15, it prints "fizzbuzz".
+
+// Function that writes an integer character by character
 void write_number(int number)
 {
 	char digit;
