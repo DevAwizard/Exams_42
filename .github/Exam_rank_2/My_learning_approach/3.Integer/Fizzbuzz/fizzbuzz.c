@@ -22,17 +22,23 @@ int main (void)
 	{
 		if (number % 3 == 0)
 			write(1, "fizz\n", 5);
+		
 		else if(number % 5 == 0)
 			write (1, "buzz\n", 5);
+		
 		else if (number % 15 == 0)
 			write (1, "fizzbuzz\n", 9);
+		
 		else
 		{
 			write_number(number);
 			write (1, "\n", 1);
 		}
+
 		number++;
 	}
+	
 	write (1, "\n", 1);
+	
 	return (0);
 }
