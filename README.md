@@ -25,9 +25,9 @@
 
 
 
-<p align="center">
+<h2 align="center">
   🌟 Embrace the journey of learning; the joy lies in the process, not just the outcome. 🌟
-</p>
+</h2>
 
 
 ---
