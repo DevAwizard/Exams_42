@@ -53,7 +53,7 @@
 > [!TIP]
 >  Practice the exam just like you would in the real exam using the following tool - [Grademe](https://grademe.fr/) 🛠️
 >
-> Check also [Additional Resources](https://github.com/DevAwizard/Exams_42/tree/main/.github/Resources) 👀
+> Check also [Additional Resources](https://github.com/DevAwizard/Exams_42/blob/main/.github/Resources/README.md) 👀
 
 
 
