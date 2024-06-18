@@ -4,29 +4,27 @@
 
 // Example lmc of 14, 20 is 140
 
-unsigned int lcm (unsigned int a, unsigned int b)
+unsigned int lcm(unsigned int a, unsigned int b)
 {
 	unsigned int number;
 
-	number = 0;
-
 	if (a == 0 || b == 0)
 		return (0);
-	
+
 	if (a > b)
 		number = a;
-	else
+	else 
 		number = b;
 
 	while (1)
 	{
-		if (number % a == 0 && number % b == 0)
+		if ((number % a) == 0 && (number % b) == 0)
+		{
 			return (number);
-		
+		}
 		number++;
-
 	}
-	return (0);
+	return (number);
 }
 
 // Main program
