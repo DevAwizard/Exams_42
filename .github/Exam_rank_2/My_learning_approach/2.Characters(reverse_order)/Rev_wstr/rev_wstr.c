@@ -12,45 +12,52 @@ Input: "./a.out "abc def ghi"
 Output: "ghi def abc"
 */
 
-
-int main (int argc, char **argv)
+int main(int argc, char **argv)
 {
-	int word_start; 
-	int index;
+    int index;
+    char *string;
+    int start_word;
 
-	if (argc != 2)
-	{
-		write(1, "\n", 1);
-		return (0);
-	}
+    if (argc != 2)
+    {
+        write(1, "\n", 1);
+        return (0);
+    }
 
-	index = 0;
-	while (argv[1][index] != '\0')
-		index++;
-	
-	index--;
-	
-	word_start = 0;
+    string = argv[1];
 
-	while (index >= 0)
-	{
-		if (argv[1][index] == ' ' || argv[1][index] == '\t' || index == 0)
-		{
-			if (index == 0)
-				word_start = 0;
-			else
-				word_start = index + 1;
+    // Find the length of the string
+    index = 0;
+    while (string[index] != '\0')
+        index++;
+    
+    // Start from the end of the string
+    index--;
 
-			while (argv[1][word_start] != '\0' && argv[1][word_start] != ' ' && argv[1][word_start] != '\t')
-			{
-				write (1, &argv[1][word_start], 1);
-				word_start++;
-			}
-			if (index != 0)
-				write (1, " ", 1);
-		}
-		index--;
-	}
-	write (1, "\n", 1);
-	return (0);
+    while (index >= 0)
+    {
+        // Find the start of the word
+        while (index >= 0 && string[index] != ' ' && string[index] != '\t')
+            index--;
+        
+        start_word = index + 1;
+
+        // Print the word
+        while (string[start_word] != '\0' && string[start_word] != ' ' && string[start_word] != '\t')
+        {
+            write(1, &string[start_word], 1);
+            start_word++;
+        }
+
+        // Print a space if it's not the last word
+        if (index >= 0)
+            write(1, " ", 1);
+
+        // Skip spaces or tabs
+        while (index >= 0 && (string[index] == ' ' || string[index] == '\t'))
+            index--;
+    }
+
+    write(1, "\n", 1);
+    return (0);
 }
