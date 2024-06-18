@@ -11,42 +11,42 @@ Output: "Hello World! 42foobar"
 Input: "a SIMPLE test"
 Output: "A Simple Test" */
 
+void str_capitalizer(char *str)
+{
+    int index;
+	
+	index = 0;
+
+    while (str[index] != '\0')
+    {
+        if ((index == 0 || str[index - 1] == ' ' || str[index - 1] == '\t') && (str[index] >= 'a' && str[index] <= 'z'))
+            str[index] -= 32;
+        else if (!(index == 0 || str[index - 1] == ' ' || str[index - 1] == '\t') && (str[index] >= 'A' && str[index] <= 'Z'))
+            str[index] += 32;
+        write(1, &str[index], 1);
+        index++;
+    }
+}
+
 // Main program
 
-int main (int argc, char **argv)
+int main(int argc, char **argv)
 {
-	int index;
-	char *string;
-
-	if (argc != 2)
-	{
-		write (1, "\n", 1);
-		return (0);
-	}
-
-	index = 0;
-	string = argv[1];
-
-	while (string[index] && (string[index] >= 'a' && string[index] <= 'z'))
-		string[index] -=32;
+    int index;
 	
-	write (1, &string[index], 1);
-	
-	index++;
+	index = 1;
 
-	while (string[index] != '\0')
-	{
-		if (string[index] >= 'A' && string[index] <= 'Z')
-			string[index] += 32;
-		
-		if (string[index] >= 'a' && string[index] <= 'z')
-			{
-				if (string[index - 1] == ' ' || string[index - 1] == '\t' || string[index - 1] == 32)
-					string[index] -=32;
-			}
-		write (1, &string[index], 1);
-		index++;
-	}
-	write (1, "\n", 1);
-	return (0);
+    if (argc < 2)
+    {
+        write(1, "\n", 1);
+        return (0);
+    }
+
+    while (index < argc)
+    {
+        str_capitalizer(argv[index]);
+        write(1, "\n", 1);
+        index++;
+    }
+    return (0);
 }
