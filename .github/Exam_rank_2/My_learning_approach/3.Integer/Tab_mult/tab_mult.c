@@ -70,12 +70,12 @@ void print_multiplication_table (int number)
 
 	while (index <= 9)
 	{
-		write_number(number);
-		write (1, "*", 1);
-		write_number(index);
-		write (1, "=", 1);
-		write_number(index * number);
-		write (1,"\n", 1);
+		ft_put_number(index);
+		write (1, " x ", 3);
+		ft_put_number(number);
+		write (1, " = ", 3);
+		ft_put_number(index * number);
+		write (1, "\n", 1);
 		
 		index++;
 	}
