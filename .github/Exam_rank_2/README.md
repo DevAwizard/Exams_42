@@ -32,7 +32,7 @@
 </table>
 
 
-For more details, refer to the [following documentation](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach) 📄.
+For more details, refer to the following [documentation](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach) 📄.
 
 ## Levels
 
