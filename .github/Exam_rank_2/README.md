@@ -36,7 +36,7 @@ For more details, refer to the following [documentation](https://github.com/DevA
 
 ## Levels
 
-#### 🟢 **Level 1️⃣**
+#### 🟢 **Level 1️⃣ (12 functions/programs)**
 
 <table>
   <tr>
@@ -56,7 +56,7 @@ For more details, refer to the following [documentation](https://github.com/DevA
 </table>
  
 
-#### 🔵 **Level 2️⃣**
+#### 🔵 **Level 2️⃣ (20 functions/programs)**
 
 <table>
   <tr>
@@ -84,7 +84,7 @@ For more details, refer to the following [documentation](https://github.com/DevA
 </table>
 
  
-#### 🟠 **Level 3️⃣**
+#### 🟠 **Level 3️⃣(15 functions/programs)**
 
 <table>
   <tr>
@@ -106,7 +106,7 @@ For more details, refer to the following [documentation](https://github.com/DevA
   </tr>
 </table>
 
-#### 🔴 **Level 4️⃣**
+#### 🔴 **Level 4️⃣(10 functions/programs)**
 
 <table>
   <tr>
