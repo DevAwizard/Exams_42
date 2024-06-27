@@ -32,6 +32,10 @@
 </table>
 
 
+[![My Learning Approach](https://github.com/DevAwizard/Exams_42/assets/153505451/8837192a-c582-4606-b813-25fd6f04fb9d)](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach)
+
+
+
 ## Levels
 
 #### 🟢 **Level 1️⃣**
