@@ -17,7 +17,7 @@
 - **No Norminette** is applied.
 
 
-## [My Personal Approach](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach)
+## My Personal Approach
 
 <table>
   <tr>
