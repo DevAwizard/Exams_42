@@ -32,7 +32,8 @@
 </table>
 
 
-[![My Learning Approach](https://github.com/DevAwizard/Exams_42/assets/153505451/8837192a-c582-4606-b813-25fd6f04fb9d)](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach)
+[![My Learning Approach](https://github.com/DevAwizard/Exams_42/assets/153505451/1480d1fa-cc78-41b4-9698-2a8ab7adc334)
+)](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach)
 
 
 
