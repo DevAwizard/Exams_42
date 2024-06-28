@@ -84,7 +84,7 @@ For more details, refer to the following [documentation](https://github.com/DevA
 </table>
 
  
-#### 🟠 **Level 3️⃣(15 functions/programs)**
+#### 🟠 **Level 3️⃣ (15 functions/programs)**
 
 <table>
   <tr>
@@ -106,7 +106,7 @@ For more details, refer to the following [documentation](https://github.com/DevA
   </tr>
 </table>
 
-#### 🔴 **Level 4️⃣(10 functions/programs)**
+#### 🔴 **Level 4️⃣ (10 functions/programs)**
 
 <table>
   <tr>
