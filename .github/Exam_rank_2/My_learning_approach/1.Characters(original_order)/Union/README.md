@@ -19,7 +19,7 @@ If the number of arguments is not 2, the program displays \n.
 
 Example:
 
-$>./union "padinton "paqefwtdjetyiytjneytjoeyjnejeyj" | cat -e
+$>./union "padinton" "paqefwtdjetyiytjneytjoeyjnejeyj" | cat -e
 zpadintoqefwjy$
 $>./union ddf6vewg64f gtwthgdwthdwfteewhrtag6h4ffdhsd | cat -e
 df6vewg4thras$
