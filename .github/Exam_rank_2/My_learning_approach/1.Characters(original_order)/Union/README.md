@@ -20,7 +20,7 @@ If the number of arguments is not 2, the program displays \n.
 Example:
 
 $>./union "padinton" "paqefwtdjetyiytjneytjoeyjnejeyj" | cat -e
-zpadintoqefwjy$
+padintoqefwjy$
 $>./union ddf6vewg64f gtwthgdwthdwfteewhrtag6h4ffdhsd | cat -e
 df6vewg4thras$
 $>./union "rien" "cette phrase ne cache rien" | cat -e
