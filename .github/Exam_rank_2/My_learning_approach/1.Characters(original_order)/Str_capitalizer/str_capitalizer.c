@@ -51,9 +51,12 @@ void str_capitalizer (char *string)
     }
 }
 
+// Main program
 int main (int argc, char **argv)
 {
-    int index = 1;
+    int index;
+    
+    index = 1;
 
     if (argc < 2)
     {
