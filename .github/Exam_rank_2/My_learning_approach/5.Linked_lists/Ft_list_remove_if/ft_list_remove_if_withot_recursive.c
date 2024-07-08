@@ -3,7 +3,6 @@ void ft_list_remove_if(t_list **begin_list, void *data_ref, int (*cmp)())
     t_list *current;
     t_list *temp;
 
-    // Manejar la eliminación de nodos al principio de la lista
     while (*begin_list && cmp((*begin_list)->data, data_ref) == 0)
     {
         temp = *begin_list;
