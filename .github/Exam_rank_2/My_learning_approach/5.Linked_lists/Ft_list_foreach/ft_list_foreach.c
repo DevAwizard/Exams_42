@@ -41,22 +41,13 @@ world
 
 // The function ft_list_foreach applies the function f to each element of the linked list.
 // It receives a pointer to the start of the list (begin_list) and a pointer to the function f.
+
 void ft_list_foreach(t_list *begin_list, void (*f)(void *))
 {
-    // Declare a pointer to the t_list structure called list_pointer.
-    t_list *list_pointer;
-
-    // Initialize the list_pointer to the start of the list.
-    list_pointer = begin_list;
-
-    // Traverse the list while list_pointer is not NULL.
-    while (list_pointer)
+    while (begin_list)
     {
-        // Apply the function f to the data stored in the current node.
-        // The function f is passed as an argument and applied using the indirection operator (*f).
-        (*f)(list_pointer->data);
-
-        // Move to the next node in the list.
-        list_pointer = list_pointer->next;
+        f(begin_list->data);
+        begin_list = begin_list->next;
     }
 }
+
