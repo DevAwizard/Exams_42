@@ -9,31 +9,33 @@ Input: source = "Hola mundo"
 Output: Duplicated string: "Hola mundo" 
 */
 
-// Function prototype
-char *ft_strdup(char *destination, char *source)
+# include <stdlib.h>
+
+char    *ft_strdup(char *src)
 {
+	char *dst;
 	int index;
-	
+
 	index = 0;
 
-	while (source[index] != '\0')
+	while (src[index] != '\0')
+		index++;
+
+	dst = malloc(sizeof(char) * (index + 1));
+
+	if (!dst)
+		return (NULL);
+
+	index = 0;
+
+	while (src[index] != '\0')
 	{
-		destination[index] = source[index];
+		dst[index] = src[index];
+
 		index++;
 	}
 
-	destination[index] = '\0';
+	dst[index] = '\0';
 
-	return (destination);
-}
-
-// Main program
-int main (void)
-{
-	char s1[10];
-	char *s2;
-
-	s2 = "Hello????";
-	printf("Copy from source to destination = %s\n", ft_strdup(s1,s2));
-	return (0);
+	return (dst);
 }
