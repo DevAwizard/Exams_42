@@ -21,28 +21,27 @@ Output: First occurrence of a rejected character in 'lenguaje': none
 
 size_t ft_strcspn(const char *s1, const char *reject)
 {
-	int index_s1;
-	int index_reject;
+	size_t index_s1;
+	size_t index_reject;
 
 	index_s1 = 0;
 
-	while(s1[index_s1] != '\0')
+	while (s1[index_s1] != '\0')
 	{
 		index_reject = 0;
+		
 		while (reject[index_reject] != '\0')
 		{
 			if (s1[index_s1] == reject[index_reject])
-				return(index_s1);
+				return (index_s1);
 			
 			index_reject++;
 		}
-        // If no reject characters are found in the string, return 0
-		if (reject[index_reject] == 0)
-			return (0);
 		index_s1++;
 	}
 	return (index_s1);
 }
+
 
 // Main program
 
