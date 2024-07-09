@@ -33,35 +33,36 @@ Output: "Hola Mundo"
 int main (int argc, char **argv)
 {
 	int index;
-	int check_space;
 	char *string;
+	int check_space;
 
 	if (argc != 2)
 	{
 		write (1, "\n", 1);
 		return (0);
 	}
-	string = argv[1];
-	index = 0;
-	check_space = 0;
 
-	while (string[index] != 0)
+	index = 0;
+
+	string = argv[1];
+
+	check_space = 0;
+	while (string[index] != '\0')
 	{
+		
 		if (string[index] == ' ' || string[index] == '\t')
-		{
 			check_space = 1;
-		}
+		
 		else
 		{
 			if (check_space)
 			{
-				write (1, "   ", 3);
+				write (1, " ", 1);
 				check_space = 0;
 			}
 			write (1, &string[index], 1);
 		}
 		index++;
-		
 	}
 	write(1, "\n", 1);
 	return (0);
