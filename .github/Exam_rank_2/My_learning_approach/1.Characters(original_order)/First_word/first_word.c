@@ -25,19 +25,18 @@ int main (int argc, char **argv)
 		return (0);
 	}
 
-	string = argv[1];
 	index = 0;
+	string = argv[1];
 
-	if (string[index] == 32 || (string[index] >= 9 && string[index] <= 13))
+	while (string[index] == ' ' || (string[index] >= 9 && string[index] <= 13))
 		index++;
 
-	while (string[index] != '\0' && string[index] != ' ' && string[index] != '\t' && string[index] != '\n')
+	while (string[index] != '\0' && string[index] != '\t' && string[index] != ' ')
 	{
 		write (1, &string[index], 1);
 		index++;
 	}
-
-	write(1, "\n", 1);
+	
+	write (1, "\n", 1);
 	return (0);
 }
-
