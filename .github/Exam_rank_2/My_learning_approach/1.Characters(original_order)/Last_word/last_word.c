@@ -33,15 +33,15 @@ int main (int argc, char **argv)
 
 	index--;
 
-	while (index >= 0 && (string[index] == ' ' || string[index] == '\t'))
+	while (index >= 0 && (string[index] == ' ' || string[index] == '\t')) // OR while (index >= 0 && string[index] <= 32)
 		index--;
 
-	while (index >= 0 && string[index] != ' ' && string[index] != '\t')
+	while (index >= 0 && string[index] != ' ' && string[index] != '\t') // OR while (index >= 0 && string[index] > 32)
 		index--;
 	
 	index++;
 
-	while (string[index] != '\0' && string[index] != ' ' && string[index] != '\t')
+	while (string[index] != '\0' && string[index] != ' ' && string[index] != '\t') // OR while (string[index] != '\0')
 	{
 		write (1, &string[index], 1);
 		index++;
