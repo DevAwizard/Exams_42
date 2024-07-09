@@ -12,31 +12,38 @@ Example:
 
 // Main program
 
+# include <unistd.h>
+
 int main (int argc, char **argv)
 {
 	int index_s1;
 	int index_s2;
+
+	char *s1;
+	char *s2;
 
 	if (argc != 3)
 	{
 		write (1, "\n", 1);
 		return (0);
 	}
-  
+
+	s1 = argv[1];
+	s2 = argv[2];
+
 	index_s1 = 0;
 	index_s2 = 0;
-
-	while (argv[1][index_s1] != '\0' && argv[2][index_s2] != '\0')
+	
+	while (s1[index_s1] != '\0' && s2[index_s2] != '\0')
 	{
-		if (argv[1][index_s1] == argv[2][index_s2])
+		if (s1[index_s1] == s2[index_s2])
 			index_s1++;
-
+		
 		index_s2++;
 	}
 
-  if (argv[1][index_s1] == '\0')
+	if (s1[index_s1] == '\0')
 		write (1, "1", 1);
-
 	else
 		write (1, "0", 1);
 	
