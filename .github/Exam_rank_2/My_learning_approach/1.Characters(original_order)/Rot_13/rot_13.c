@@ -13,9 +13,12 @@ Input: "Abc XYZ"
 Output: "Nop KLM"
 */
 
+# include <unistd.h>
+
 int main (int argc, char **argv)
 {
 	int index;
+	char *string;
 
 	if (argc != 2)
 	{
@@ -24,18 +27,16 @@ int main (int argc, char **argv)
 	}
 
 	index = 0;
+	string = argv[1];
 
-	while (argv[1][index] != '\0')
+	while (string[index] != '\0')
 	{
-		if (argv[1][index] >= 'a' && argv[1][index] <= 'z')
-		{
-			argv[1][index] = (argv[1][index] - 'a'  + 13) % 26 + 'a';
-		}
-		else if (argv[1][index] >= 'A' && argv[1][index] <= 'Z')
-		{
-			argv[1][index] = (argv[1][index] - 'A'  + 13) % 26 + 'A';
-		}
-		write (1, &argv[1][index], 1);
+		if (string[index] >= 'A' && string[index] <= 'Z')
+			string[index] = ((string[index] - 'A' + 13) % 26 + 'A');
+		else if (string[index] >= 'a' && string[index] <= 'z')
+			string[index] = ((string[index] - 'a' + 13) % 26 + 'a');
+		
+		write (1, &string[index], 1);
 		index++;
 	}
 	write (1, "\n", 1);
