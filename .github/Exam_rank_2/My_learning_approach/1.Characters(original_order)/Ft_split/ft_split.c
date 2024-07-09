@@ -1,24 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-/* Simplified Variable Explanation
-
-Function count_words:
-
-- str: the input string.
-- i: index to traverse the string.
-- word_count: counter for words found.
-
-Function split_words (formerly ft_split):
-
-- str: the input string.
-- word_index: index for words in the array.
-- char_index: index for characters within a word.
-- start: start index of a word.
-- i: index to traverse the string.
-- words: array of pointers to words. */
-
-/*
 Example input and output:
 
 Input: "Hello world this is a test"
@@ -34,129 +16,99 @@ Program/function description:
 - If any memory allocation fails, the function returns NULL.
 */
 
-// Function to count the number of words in a string
-int count_words(char *str)
-{
-    // Declaration of variables for the index and word count
-    int index;
-    int word_count;
+# include <stdlib.h>
+# include <stdio.h>
 
-    // Initialize variables
-    index = 0;
-    word_count = 0;
-    
-    // Traverse the string
-    while (str[index] != '\0')
-    {
-        // Count a word when a non-separator character is followed by a separator or the end of the string
-        if (str[index] != ' ' && str[index] != '\t' && str[index] != '\n' &&
-            (str[index + 1] == '\0' || str[index + 1] == ' ' || str[index + 1] == '\t' || str[index + 1] == '\n'))
-        {
-            // Increment word_count
-            word_count++;
-        }
-        // Increment index
-        index++;
-    }
-    // Return the total number of words found
-    return (word_count);
+char *ft_strncpy(char *s1, char *s2, int length)
+{
+	int index;
+
+	index = 0;
+
+	while (index < length && s2[index] != '\0')
+	{
+		s1[index] = s2[index];
+
+		index++;
+	}
+
+	s1[index] = '\0';
+
+	return (s1);
 }
 
-// Function to split a string into words
-char **ft_split(char *str)
+int count_words(char *string)
 {
-    // Declaration of variables for the word index, character index, word start, string index, and the array of words
-    int     word_index;
-    int     char_index;
-    int     start;
-    int     index;
-    char    **words;
+	int index;
+	int count_words;
 
-    // Initialize variables
-    word_index = 0;
-    index = 0;
+	index = 0;
+	count_words = 0;
 
-    // Allocate memory for the array of word pointers, including space for the NULL pointer at the end
-    words = (char **)malloc(sizeof(char *) * (count_words(str) + 1));
+	if (!string)
+		return (0);
 
-    // If words is NULL, return NULL
-    if (words == 0)
-        return (0);
-
-    // Traverse the input string to split it into words
-    while (str[index] != '\0')
-    {
-        // Initialize char_index to 0
-        char_index = 0;
-        
-        // Skip the separators (spaces, tabs, newlines)
-        while (str[index] == ' ' || str[index] == '\t' || str[index] == '\n')
-            index++;
-        
-        // Mark the start of a word
-        start = index;
-        
-        // Find the end of the word
-        while (str[index] != '\0' && str[index] != ' ' && str[index] != '\t' && str[index] != '\n')
-            index++;
-
-        // Allocate memory for the current word, including space for the null character
-        words[word_index] = (char *)malloc(sizeof(char) * (index - start + 1));
-
-        if (words[word_index] == 0)
-            return (0);
-        
-        // Copy the word to the array
-        while (start < index)
-        {
-            // Copy the word from str to the words array
-            words[word_index][char_index] = str[start];
-            
-            // Increment the start index to move to the next character in str
-            start++;
-            
-            // Increment the char_index to move to the next character in the current word in words
-            char_index++;
-        }
-
-        // Add the null character at the end of the word
-        words[word_index][char_index] = '\0';
-        
-        // Increment the word index
-        word_index++;
-    }
-    // Add a null pointer at the end of the array
-    words[word_index] = 0;
-    // Return the array of words
-    return (words);
+	while (string[index] != '\0')
+	{
+		if (string[index] != '\0' && string[index] != '\t' && string[index] != ' ' 
+		&& string[index] != '\n' && (string[index + 1] == ' ' || string[index + 1] == '\t' || string[index + 1] == '\n' || string[index + 1] == '\0'))
+			count_words++;
+		index++;
+	}
+	return (count_words);
 }
 
+char **ft_split (char *string)
+{
+	char **split_words;
+	int length;
+	int index;
+	int start_index_position;
+	int index_char;
+
+	index = 0;
+
+	if (string == NULL || string[index] == '\0')
+    {
+        split_words = (char **)malloc(sizeof(char *));
+        split_words[0] = NULL;
+        return split_words;
+    }
+
+	length = count_words(string);
+
+	split_words = (char **)malloc(sizeof(char *) * (length + 1));
+
+	index_char = 0;
+	while (string[index])
+	{
+		while (string[index] && (string[index] == ' ' || string[index] == '\t' || string[index] == '\n'))
+			index++;
+		
+		start_index_position = index;
+
+		while (string[index] && (string[index] != ' ' && string[index] != '\t' && string[index] != '\n'))
+			index++;
+
+		if (index > start_index_position)
+		{
+			split_words[index_char] = (char *)malloc(sizeof(char) * ((index - start_index_position) + 1));
+	
+			ft_strncpy(split_words[index_char], &string[start_index_position], index - start_index_position);
+			index_char++;
+		}
+	}
+	split_words[index_char] = NULL;
+	return (split_words);
+}
 
 int main(void)
 {
-    char *input = "   Hello   world \t this is \n a test  ";
-    char **words;
-    int index;
-
-    // Call the split_words function
-    words = ft_split(input);
-
-    // Print the resulting words
-    index = 0;
-    while (words[index] != NULL)
-    {
-        printf("Word %d: %s\n", index, words[index]);
-        index++;
-    }
-
-    // Free the memory allocated for each word and for the array of pointers
-    index = 0;
-    while (words[index] != NULL)
-    {
-        free(words[index]);
-        index++;
-    }
-    free(words);
-
-    return 0;
+    char **split;
+    split = ft_split("");
+    printf("Cada    --> %s\n", split[0]);
+    printf("palabra --> %s\n", split[0]);
+    printf("una     --> %s\n", split[0]);
+	printf("linea   --> %s\n", split[0]);
+	return (0);
 }
