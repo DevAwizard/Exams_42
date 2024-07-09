@@ -12,52 +12,58 @@ Input: "./a.out "abc def ghi"
 Output: "ghi def abc"
 */
 
-int main(int argc, char **argv)
+int ft_strlen (char *string)
 {
-    int index;
-    char *string;
-    int start_word;
+	int index;
 
-    if (argc != 2)
-    {
-        write(1, "\n", 1);
-        return (0);
-    }
+	index = 0;
 
-    string = argv[1];
+	while (string[index] != '\0')
+		index++;
 
-    // Find the length of the string
-    index = 0;
-    while (string[index] != '\0')
-        index++;
-    
-    // Start from the end of the string
-    index--;
+	return (index);
+}
 
-    while (index >= 0)
-    {
-        // Find the start of the word
-        while (index >= 0 && string[index] != ' ' && string[index] != '\t')
-            index--;
-        
-        start_word = index + 1;
+int main (int argc, char **argv)
+{
+	int index_total_string;
+	int index_start;
+	int new_index;
 
-        // Print the word
-        while (string[start_word] != '\0' && string[start_word] != ' ' && string[start_word] != '\t')
-        {
-            write(1, &string[start_word], 1);
-            start_word++;
-        }
+	char *string;
 
-        // Print a space if it's not the last word
-        if (index >= 0)
-            write(1, " ", 1);
+	if (argc != 2)
+	{
+		write (1, "\n", 1);
+		return (0);
+	}
 
-        // Skip spaces or tabs
-        while (index >= 0 && (string[index] == ' ' || string[index] == '\t'))
-            index--;
-    }
+	string = argv[1];
+	index_total_string = ft_strlen(string) - 1;
 
-    write(1, "\n", 1);
-    return (0);
+	while (index_total_string >= 0)
+	{
+		while (index_total_string >= 0 && (string[index_total_string] == ' ' || string[index_total_string] == '\t'))
+			index_total_string--;
+
+		index_start = index_total_string;
+		
+		while (index_total_string >= 0 && string[index_total_string] != ' ' && string[index_total_string] != '\t')
+			index_total_string--;
+		
+		new_index = index_total_string + 1;
+
+		while (new_index <= index_start)
+		{
+			write (1, &string[new_index], 1);
+			new_index++;
+		}
+
+		if (new_index != -1)
+			write (1, " ", 1);
+
+	}
+	
+	write (1, "\n", 1);
+	return (0);
 }
