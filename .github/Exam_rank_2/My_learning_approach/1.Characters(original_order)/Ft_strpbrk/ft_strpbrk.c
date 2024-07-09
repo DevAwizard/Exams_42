@@ -17,7 +17,8 @@ Output: First occurrence of a character from 'e' in 'OpenAI': 'e' -> enAI
 */
 
 // Function that searches for the first occurrence in string s1 of any character that is in string s2
-char *ft_strpbrk(const char *s1, const char *s2)
+
+char	*ft_strpbrk(const char *s1, const char *s2)
 {
 	int index_s1;
 	int index_s2;
@@ -31,7 +32,6 @@ char *ft_strpbrk(const char *s1, const char *s2)
 		while (s2[index_s2] != '\0')
 		{
 			if (s1[index_s1] == s2[index_s2])
-				// Returns a pointer to the character in s1
 				return ((char *) &s1[index_s1]);
 			
 			index_s2++;
