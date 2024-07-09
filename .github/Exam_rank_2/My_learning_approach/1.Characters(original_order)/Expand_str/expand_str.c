@@ -36,6 +36,8 @@ int main (int argc, char **argv)
 {
 	int index;
 	char *string;
+	int check_space;
+
 
 	if (argc != 2)
 	{
@@ -43,27 +45,29 @@ int main (int argc, char **argv)
 		return (0);
 	}
 
-	string = argv[1];
 	index = 0;
+	string = argv[1];
 
-	while (string[index] == 9 || string[index] == 32)
+	while (string[index] == ' ' || (string[index] >= 9 && string[index] <= 13))
 		index++;
-	
+
+	check_space = 0;
 	while (string[index] != '\0')
 	{
-		while (string[index] != '\0' && string[index] != ' ')
-		{
-			write (1, &string[index], 1);
-			index++;
-		}
-		while (string[index] == 9 || string[index] == 32)
-			index++;
+		if (string[index] == ' ' || string[index] == '\t')
+			check_space = 1;
 		
-		if (string[index] != '\0')
+		else
 		{
-			write (1, "   ", 3);
+			if (check_space)
+			{
+				write (1, "   ", 3);
+				check_space = 0;
+			}
+			write(1, &string[index], 1);
 		}
+		index++;
 	}
-	write(1, "\n", 1);
+	write (1, "\n", 1);
 	return (0);
 }
