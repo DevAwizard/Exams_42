@@ -16,36 +16,42 @@ Output: Length of the initial segment in '123abc' that consists only of characte
 
 // Function that calculates the initial segment of 'string' that consists only of characters from 'accept'
 
-size_t ft_strspn(const char *string, const char *accept)
+size_t	ft_strspn(const char *s, const char *accept)
 {
-	size_t index_string;
+	size_t index_s;
+
 	size_t index_accept;
+
 	size_t check_match;
 
-	index_string = 0;
+	index_s = 0;
 
-	while (string[index_string] != '\0')
+	while (s[index_s] != '\0')
 	{
 		index_accept = 0;
 		check_match = 0;
+		
 		while (accept[index_accept] != '\0')
 		{
-			if (string[index_string] == accept[index_accept])
+			if (s[index_s] == accept[index_accept])
 			{
 				check_match = 1;
 
-				// Exit the loop to check again if the next character is the same
-				break ;
+				break;
 			}
 			index_accept++;
 		}
+		
 		if (check_match == 0)
-			return (index_string);
-
-		index_string++;
+		{
+			return (index_s);
+		}
+		index_s++;
 	}
-	return (index_string);
+	return (index_s);
 }
+
+
 // Main program
 
 int main(void)
