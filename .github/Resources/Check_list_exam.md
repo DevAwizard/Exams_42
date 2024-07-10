@@ -1,7 +1,5 @@
 # Exam rank 2 
 
-## Level 0
-
 
 | Status  | Indicator  |
 |---------|------------|
