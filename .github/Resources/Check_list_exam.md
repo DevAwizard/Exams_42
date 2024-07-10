@@ -3,8 +3,12 @@
 ## Level 0
 
 
-Pass = ✅
-Failed = ❌
+| Status  | Indicator  |
+|---------|------------|
+| Pass    | ✅         |
+| Failed  | ❌         |
+
+
 
 ### Grademe
 
