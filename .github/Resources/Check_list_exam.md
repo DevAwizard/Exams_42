@@ -11,9 +11,9 @@
 ### Grademe
 
 
-| Level            | Simulation Attempt | Date             | Status        |
+| Level            |      Exercise      | Date             | Status        |
 |------------------|--------------------|------------------|---------------|
-| 0                | ft_swap            | 27/04/2024       | ❌            |
+| 0                |      ft_swap       | 27/01/2024       | ❌            |
 
 
 
@@ -24,9 +24,9 @@
 
 ### Real exam
 
-| Level            | Real Exam        |   Date            | Status  |
+| Level            |    Exercise      |      Date         | Status  |
 |------------------|------------------|-------------------|---------|
-| 0                | ft_swap          | 27/04/2024        | ❌      |
+| 0                | ft_swap          |   27/04/2024      |   ❌    |
 
 
 
