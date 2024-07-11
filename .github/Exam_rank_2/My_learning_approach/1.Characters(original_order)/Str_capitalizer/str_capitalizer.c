@@ -20,56 +20,62 @@ Second Test A Little Bit   Moar Complex$
 
 */
 
-#include <unistd.h>
+# include <unistd.h>
 
-int ft_strlen(char *str)
+int ft_strlen (char *string)
 {
-    int len = 0;
-    while (str[len] != '\0')
-    {
-        len++;
-    }
-    return len;
+	int index;
+
+	index = 0;
+
+	while (string[index] != '\0')
+		index++;
+	return (index);
 }
 
 void str_capitalizer (char *string)
 {
-    int index = 0;
-    int start = 0;
+	int index;
 
-    while (string[start] == ' ' || (string[start] >= 9 && string[start] <= 13))
-        start++;
+	index = 0;
 
-    while (string[index] != '\0')
-    {
-        if ((index == start || string[index - 1] == ' ' || string[index - 1] == '\t') && (string[index] >= 'a' && string[index] <= 'z'))
-            string[index] -= 32;
-        else if (!(index == start || string[index - 1] == ' ' || string[index - 1] == '\t') && (string[index] >= 'A' && string[index] <= 'Z'))
-            string[index] += 32;
+	while (string[index] <= 32 && string[index] != '\0')
+		index++;
 
-        index++;
-    }
+	while (string[index] != '\0')
+	{
+		if ((index == 0 || string[index - 1] ==  '\t' || string[index - 1] == ' ') && (string[index] >= 'a' && string[index] <= 'z'))
+		{
+			string[index] -= 32;
+		}
+
+		else if (!(index == 0 || string[index - 1] == '\t' || string[index - 1] == ' ') && (string[index] >= 'A' && string[index] <= 'Z'))
+			string[index] += 32;
+
+		index++;
+	}
 }
 
-// Main program
+
+
 int main (int argc, char **argv)
 {
-    int index;
-    
-    index = 1;
+	int index;
 
-    if (argc < 2)
-    {
-        write (1, "\n", 1);
-        return (0);
-    }
+	if (argc < 2)
+	{
+		write (1, "\n", 1);
+		return (0);
+	}
 
-    while (index < argc)
-    {
-        str_capitalizer(argv[index]);
-        write(1, argv[index], ft_strlen(argv[index]));
-        write(1, "\n", 1);
-        index++;
-    }
-    return (0);
+	index = 1;
+
+	while (index < argc)
+	{
+		str_capitalizer(argv[index]);
+		write (1, argv[index], ft_strlen(argv[index]));
+		write (1, "\n", 1);
+		index++;
+	}
+	return (0);
 }
