@@ -18,7 +18,7 @@ A lowerCamelCase string is a string where each word begins with a capital letter
 except for the first one.
 
 Examples:
-$>./snake_to_camel "here_is_a_snake_case_word"
+$>./snake_to_camel "here_is_a_snake_case_word" | cat -e
 hereIsASnakeCaseWord
 $>./snake_to_camel "hello_world" | cat -e
 helloWorld$
