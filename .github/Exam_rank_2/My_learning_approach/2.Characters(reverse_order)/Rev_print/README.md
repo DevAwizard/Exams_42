@@ -23,4 +23,6 @@ $> ./rev_print | cat -e
 $
 ```
 
+
+Update = Now we need to write a function 
 ---
