@@ -20,7 +20,7 @@ then the program simply rewrites the string followed by a newline.
 
 Examples:
 
-$>./search_and_replace "Papache est un sabre" "a" "o"
+$>./search_and_replace "Papache est un sabre" "a" "o" | cat -e
 Popoche est un sobre
 $>./search_and_replace "zaz" "art" "zul" | cat -e
 $
