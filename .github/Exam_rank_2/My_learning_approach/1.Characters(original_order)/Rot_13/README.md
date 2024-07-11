@@ -20,8 +20,8 @@ If the number of arguments is not 1, the program displays a newline.
 
 Example:
 
-$>./rot_13 "abc"
-nop
+$>./rot_13 "abc" | cat -e
+nop$
 $>./rot_13 "My horse is Amazing." | cat -e
 Zl ubefr vf Nznmvat.$
 $>./rot_13 "AkjhZ zLKIJz , 23y " | cat -e
