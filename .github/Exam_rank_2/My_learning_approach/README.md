@@ -55,7 +55,7 @@
 | Number | Level | Function | Description |
 |--------|-------|-----------|-------------|
 | 1 | 2 | [Ft_strrev](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Ft_strrev) | Reverses a string |
-| 2 | 1 | [Reve_print](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Reve_print) | Prints a string in reverse |
+| 2 | 1 | [Reve_print](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Rev_print/README.md) | Prints a string in reverse |
 | 3 | 4 | [Rev_wstr](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Rev_wstr) | Reverses the words in a string |
 | 4 | 4 | [Rostring](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Rostring) | Reverses the order of words in a string |
 | 5 | 3 | [Rstr_capitalizer](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Rstr_capitalizer) | Capitalizes the first letter of each word in reverse order |
