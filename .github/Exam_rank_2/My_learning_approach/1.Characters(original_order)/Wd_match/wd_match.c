@@ -5,7 +5,7 @@ This program checks if all characters of the first string (string_s1) appear in 
 If so, it prints the first string. Otherwise, it prints nothing.
 
 Example:
-Input: "./a.out"abc" "abdc" | cat -e
+Input: "./a.out "abc" "abdc" | cat -e
 Output: abc$
 
 Input: "./a.out "abc" "acb" | cat -e
