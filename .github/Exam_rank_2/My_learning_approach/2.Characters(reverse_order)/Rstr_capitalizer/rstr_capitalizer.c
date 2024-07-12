@@ -6,8 +6,6 @@ void rstr_capitalizer(char *string)
 
 	index = 0;
 
-	while (string[index] == ' ' && (string[index] >= 9 && string[index] <= 13))
-		index++;
 	
 	while (string[index] != '\0')
 	{
