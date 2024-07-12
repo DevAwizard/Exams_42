@@ -1,5 +1,4 @@
 #include "ft_list.h"
-#include <string.h> // For strcmp and strdup
 
 /*
 Usage example:
