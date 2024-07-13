@@ -1,4 +1,3 @@
-
 # include <stdio.h>
 
 /*
@@ -8,7 +7,6 @@ Output: Sorted array: 2 3 4 5 8
 
 Input: 10, -2, 33, 5, 1, 0
 Output: Sorted array: -2 0 1 5 10 33
-
 
 Input: 100, 50, 25, 75, 0, -50
 Output: Sorted array: -50 0 25 50 75 100
