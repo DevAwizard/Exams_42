@@ -23,8 +23,6 @@ Input: start = 0, end = -5
 Output: [0, -1, -2, -3, -4, -5]
 */
 
-// Function to create an array of integers from 'start' to 'end' (inclusive)
-
 int *ft_range(int start, int end)
 {
     int     *range;
@@ -33,13 +31,15 @@ int *ft_range(int start, int end)
     
 	index = 0;
 	length = 0;
-    if (start == end)
+
+	if (start == end)
+
         length = 1;
-    
-    else if (start > end)
+	
+    if (start > end)
         length = (long)start - (long)end + 1;
     
-    else if (end > start)
+	if (end > start)
         length = (long)end - (long)start + 1;
     
 	range = (int *)malloc(sizeof(int) * length);
@@ -49,7 +49,6 @@ int *ft_range(int start, int end)
     
 	if (start == end)
         range[index] = start;
-    
     else
     {
         while (index < length)
@@ -63,52 +62,60 @@ int *ft_range(int start, int end)
     return (range);
 }
 
-//  Main program
+// Main program
 
 int main()
 {
-    int start, end, size;
-    int *result;
+    int *range;
+    int i, length;
 
-    // Example 1
-    start = 5;
-    end = 10;
-    size = abs(start - end) + 1;
-    result = ft_range(start, end);
-    print_array(result, size);
-    free(result);
+    // Test 1: Start at INT_MIN and end at INT_MIN + 5
+    int start = INT_MIN;
+    int end = INT_MIN + 5;
+    range = ft_range(start, end);
+    if (range)
+    {
+        length = end - start + 1;
+        printf("Range from %d to %d:\n", start, end);
+        for (i = 0; i < length; i++)
+        {
+            printf("%d ", range[i]);
+        }
+        printf("\n");
+        free(range);
+    }
 
-    // Example 2
-    start = 10;
-    end = 5;
-    size = abs(start - end) + 1;
-    result = ft_range(start, end);
-    print_array(result, size);
-    free(result);
+    // Test 2: Start at INT_MAX - 5 and end at INT_MAX
+    start = INT_MAX - 5;
+    end = INT_MAX;
+    range = ft_range(start, end);
+    if (range)
+    {
+        length = end - start + 1;
+        printf("Range from %d to %d:\n", start, end);
+        for (i = 0; i < length; i++)
+        {
+            printf("%d ", range[i]);
+        }
+        printf("\n");
+        free(range);
+    }
 
-    // Example 3
-    start = 7;
-    end = 7;
-    size = abs(start - end) + 1;
-    result = ft_range(start, end);
-    print_array(result, size);
-    free(result);
-
-    // Example 4
+    // Test 3: Start at -5 and end at 5
     start = -5;
-    end = 0;
-    size = abs(start - end) + 1;
-    result = ft_range(start, end);
-    print_array(result, size);
-    free(result);
-
-    // Example 5
-    start = 0;
-    end = -5;
-    size = abs(start - end) + 1;
-    result = ft_range(start, end);
-    print_array(result, size);
-    free(result);
+    end = 5;
+    range = ft_range(start, end);
+    if (range)
+    {
+        length = end - start + 1;
+        printf("Range from %d to %d:\n", start, end);
+        for (i = 0; i < length; i++)
+        {
+            printf("%d ", range[i]);
+        }
+        printf("\n");
+        free(range);
+    }
 
     return 0;
 }
