@@ -10,57 +10,85 @@ Original list:
 Sorted list:
 3 4 2 1  */
 
-t_list *sort_list(t_list *lst, int (*cmp)(int, int))
+t_list	*sort_list(t_list *lst, int (*cmp)(int, int))
 {
-    // Variable declaration
-	
-    // Variable to indicate if swaps were made in a pass
-    int swapped;
+	int swap;
+	t_list *temp;
+	t_list *start;
 
-    // Pointer to traverse the list
-    t_list *current;
-	
-    // Pointer to mark the boundary of the unsorted part of the list
-    t_list *last_ptr = NULL;
+	start = lst;
+	while (lst != NULL)
+	{
+		temp = start;
+		while (temp->next != NULL)
+		{
+			if (((cmp)(temp->data, temp->next->data)) > 0)
+			{
+				swap = temp->data;
+				temp->data = temp->next->data;
+				temp->next->data = swap;
+			}
+			temp = temp->next;
+		}
+		lst = lst->next;
+	}
+	return (start);
+}
 
-    // If lst is NULL, return NULL
-    if (lst == NULL)
-        return (NULL);
+int ascending(int a, int b)
+{
+    return (a - b);
+}
 
-    // Main loop to traverse the list
-    while (1)
+
+
+// Function to create a new node
+t_list *create_node(int data)
+{
+    t_list *new_node = (t_list *)malloc(sizeof(t_list));
+    new_node->data = data;
+    new_node->next = NULL;
+    return new_node;
+}
+
+// Function to print the list
+void print_list(t_list *list)
+{
+    while (list != NULL)
     {
-        // Reset the swap indicator at the beginning of each pass
-        swapped = 0;
+        printf("%d ", list->data);
+        list = list->next;
+    }
+    printf("\n");
+}
 
-        // Start from the beginning of the list
-        current = lst;
-		
-        // Inner loop to traverse the list up to last_ptr
-        while (current->next != last_ptr)
-        {
-            // If the elements are in the wrong order according to cmp, swap them
-            if ((*cmp)(current->data, current->next->data) == 0)
-            {
-                // Swap the data of the current nodes
-                int temp_data = current->data;
-                current->data = current->next->data;
-                current->next->data = temp_data;
-                // Indicate that a swap was made
-                swapped = 1;
-            }
-            // Move to the next node
-            current = current->next;
-        }
-        // Update last_ptr to reduce the unsorted part of the list
-        last_ptr = current;
+int main()
+{
+    // Create an unsorted linked list
+    t_list *list = create_node(4);
+    list->next = create_node(3);
+    list->next->next = create_node(5);
+    list->next->next->next = create_node(8);
 
-        // If no swaps were made, the list is sorted
-        if (swapped == 0)
-            // Exit the main loop
-            break;
+    // Print the original list
+    printf("Lista original:\n");
+    print_list(list);
+
+    // Sort the list
+    list = sort_list(list, ascending);
+
+    // Print the sorted list
+    printf("Lista ordenada:\n");
+    print_list(list);
+
+    // Free memory
+    t_list *temp;
+    while (list != NULL)
+    {
+        temp = list;
+        list = list->next;
+        free(temp);
     }
 
-    // Return the pointer to the beginning of the sorted list
-    return (lst);
+    return 0;
 }
