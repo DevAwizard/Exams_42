@@ -10,27 +10,29 @@ The maximum value in the array is: 9
 
 // Function that finds and returns the maximum value in an array of integers
 
-int max (int *tab, unsigned int len)
+
+int	max(int	*tab, unsigned int len)
 {
-	int result;
-	
-	unsigned int index;
-
-	if (len == 0)
-		return (0);
-
-	result = tab[0];
+	unsigned int	index;
+	int max_number;
 
 	index = 0;
-
-	while (index < len)
+	max_number = 0;
+	if (tab == 0)
+		return (0);
+	
+	
+	if (len > 0)
 	{
-		if (result < tab[index])
-			result = tab[index];
-		
-		index++;
+		max_number = tab[index];
+		while (index < len)
+		{
+			if (max_number < tab[index])
+				max_number = tab[index];
+			index++;
+		}
 	}
-	return (result);
+	return (max_number);
 }
 
 
@@ -38,7 +40,6 @@ int max (int *tab, unsigned int len)
 
 #include <stdio.h>
 
-int max(int *tab, unsigned int len);
 
 int main() 
 {
