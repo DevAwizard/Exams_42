@@ -38,7 +38,7 @@ void sort_int_tab (int *tab, unsigned int size)
 	}
 }
 
-// MAin program
+// Main program
 
 int main()
 {
