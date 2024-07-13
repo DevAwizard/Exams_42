@@ -24,49 +24,42 @@ Output: [0, -1, -2, -3, -4, -5]
 */
 
 // Function to create an array of integers from 'start' to 'end' (inclusive)
+
 int *ft_range(int start, int end)
 {
-	int index;
-	int size;
-	int *array_integer;
-
-	index = 0;
+    int     *range;
+    int     index;
+    int    length;
     
-	// Calculo el tamaño del array basado en la diferencia entre start y end, más 1
-	size = abs(start - end) + 1;
+	index = 0;
+	length = 0;
+	if (start == end)
+    {
+        length = 1;
+    }
+    else if (start > end)
+        length = (long)start - (long)end + 1;
+    else if (end > start)
+        length = (long)end - (long)start + 1;
+    
+	range = (int *)malloc(sizeof(int) * length);
 
-	array_integer = malloc(sizeof(int) * size);
-
-	if (!array_integer)
-		return (NULL);
-	
-	if (start > end)
-	{
-		while (index < size)
-		{
-			array_integer[index] = start;
-			
-			index++;
-			start--;
-		}
-	}
-	else if (start < end)
-	{
-		while(index < size)
-		{
-			array_integer[index] = start;
-
-			index++;
-			
-			start++;
-		}
-	}
-	else
-	{
-		array_integer[index] = start;
-	}
-
-	return (array_integer);
+    if (!range)
+        return (NULL);
+    
+	if (start == end)
+        range[index] = start;
+    else
+    {
+        while (index < length)
+        {
+            if (start > end)
+                range[index++] = start--;
+            else
+                range[index++] = start++;
+        }
+    }
+    return (range);
 }
 
 //  Main program
