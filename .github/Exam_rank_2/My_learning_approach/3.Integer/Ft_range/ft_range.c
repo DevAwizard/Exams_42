@@ -33,12 +33,12 @@ int *ft_range(int start, int end)
     
 	index = 0;
 	length = 0;
-	if (start == end)
-    {
+    if (start == end)
         length = 1;
-    }
+    
     else if (start > end)
         length = (long)start - (long)end + 1;
+    
     else if (end > start)
         length = (long)end - (long)start + 1;
     
@@ -49,6 +49,7 @@ int *ft_range(int start, int end)
     
 	if (start == end)
         range[index] = start;
+    
     else
     {
         while (index < length)
