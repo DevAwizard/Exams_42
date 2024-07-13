@@ -17,112 +17,95 @@ Input: start = 3, end = -3
 Output: [-3, -2, -1, 0, 1, 2, 3]
 */
 
-// Function that creates an array of integers from 'end' to 'start', including both
-int *ft_rrange(int start, int end)
+/int *ft_rrange(int start, int end)
 {
-	int index;
-	int size;
-	int *array_integer;
+    int     *rrange;
+    int     index;
+    long    len;
+    index = 0;
 	
-	index = 0;
-
-	// Calculate the size of the array based on the difference between start and end, plus 1
-	size = abs(start - end) + 1;
-
-	array_integer = malloc(sizeof(int) * size);
-	
-	if (!array_integer)
-		return (NULL);
-	
+	if (start == end)
+		len = 1;
+    
+	if (start > end)
+        len = (long)start - (long)end + 1;
+    
 	if (end > start)
-	{
-		while (index < size)
-		{
-			array_integer[index] = end;
-			
-			index++;
-			
-			end--;
-		}
-	}
-	else if (end < start)
-	{
-		while (index < size)
-		{
-			array_integer[index] = end;
-			
-			index++;
-			
-			end++;
-		}
-	}
-	else
-		array_integer[index] = end;
-
-	return (array_integer);
-}
-
-
-// Function to print the array for testing
-void print_array(int *arr, int size)
-{
-    for (int i = 0; i < size; i++)
+        len = (long)end - (long)start + 1;
+    rrange = (int *)malloc(sizeof(int) * len);
+    
+	if (!rrange)
+        return (NULL);
+   
+    if (start == end)
+        rrange[index] = end;
+    else
     {
-        printf("%d ", arr[i]);
+        while (index < len)
+        {
+            if (end > start)
+                rrange[index++] = end--;
+            else
+                rrange[index++] = end++;
+        }
     }
-    printf("\n");
+    return (rrange);
 }
 
 // Main program
 
-int main(void)
+int main()
 {
-	int i;
-	int *prt;
+    int *range;
+    int i, length;
 
-	// Example 1
-	i = 0;
-	prt = ft_rrange(1, 3);
-	while(i <= 2)
-	{
-		printf("%d ", prt[i]);
-		i++;
-	}
-	printf("\n");
-	free(prt);
+    // Test 1: Start at INT_MIN and end at INT_MIN + 5
+    int start = INT_MIN;
+    int end = INT_MIN + 5;
+    range = ft_rrange(start, end);
+    if (range)
+    {
+        length = end - start + 1;
+        printf("Range from %d to %d:\n", start, end);
+        for (i = 0; i < length; i++)
+        {
+            printf("%d ", range[i]);
+        }
+        printf("\n");
+        free(range);
+    }
 
-	// Example 2
-	i = 0;
-	prt = ft_rrange(-1, 2);
-	while(i <= 3)
-	{
-		printf("%d ", prt[i]);
-		i++;
-	}
-	printf("\n");
-	free(prt);
+    // Test 2: Start at INT_MAX - 5 and end at INT_MAX
+    start = INT_MAX - 5;
+    end = INT_MAX;
+    range = ft_rrange(start, end);
+    if (range)
+    {
+        length = end - start + 1;
+        printf("Range from %d to %d:\n", start, end);
+        for (i = 0; i < length; i++)
+        {
+            printf("%d ", range[i]);
+        }
+        printf("\n");
+        free(range);
+    }
 
-	// Example 3
-	i = 0;
-	prt = ft_rrange(0, 0);
-	while(i <= 0)
-	{
-		printf("%d ", prt[i]);
-		i++;
-	}
-	printf("\n");
-	free(prt);
+    // Test 3: Start at -5 and end at 5
+    start = -5;
+    end = 5;
+    range = ft_rrange(start, end);
+    if (range)
+    {
+        length = end - start + 1;
+        printf("Range from %d to %d:\n", start, end);
+        for (i = 0; i < length; i++)
+        {
+            printf("%d ", range[i]);
+        }
+        printf("\n");
+        free(range);
+    }
 
-	// Example 4
-	i = 0;
-	prt = ft_rrange(3, -3);
-	while(i <= 6)
-	{
-		printf("%d ", prt[i]);
-		i++;
-	}
-	printf("\n");
-	free(prt);
-
-	return (0);
+    return 0;
 }
