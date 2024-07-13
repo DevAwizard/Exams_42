@@ -38,41 +38,34 @@ void sort_int_tab (int *tab, unsigned int size)
 	}
 }
 
-
-void print_array(int *array, unsigned int size)
-{
-    for (unsigned int i = 0; i < size; i++)
-    {
-        printf("%d ", array[i]);
-    }
-    printf("\n");
-}
+// MAin program
 
 int main()
 {
-    int arr1[] = {5, 3, 8, 4, 2};
-    int size1 = sizeof(arr1) / sizeof(arr1[0]);
+    int array[] = {5, 3, 8, 1, 2, 7, 4, 6};
+    unsigned int size = sizeof(array) / sizeof(array[0]);
+    unsigned int i = 0;
 
-    // Sort and print the first array
-    sort_array(arr1, size1);
-    printf("Sorted array1: ");
-    print_array(arr1, size1);
+    printf("Array before sorting:\n");
+    while (i < size)
+    {
+        printf("%d ", array[i]);
+        i++;
+    }
+    printf("\n");
 
-    int arr2[] = {10, -2, 33, 5, 1, 0};
-    int size2 = sizeof(arr2) / sizeof(arr2[0]);
+    sort_int_tab(array, size);
 
-    // Sort and print the second array
-    sort_array(arr2, size2);
-    printf("Sorted array2: ");
-    print_array(arr2, size2);
+    i = 0;
 
-    int arr3[] = {100, 50, 25, 75, 0, -50};
-    int size3 = sizeof(arr3) / sizeof(arr3[0]);
-
-    // Sort and print the third array
-    sort_array(arr3, size3);
-    printf("Sorted array3: ");
-    print_array(arr3, size3);
+    printf("Array after sorting:\n");
+    
+    while (i < size)
+    {
+        printf("%d ", array[i]);
+        i++;
+    }
+    printf("\n");
 
     return 0;
 }
