@@ -32,15 +32,14 @@ int *ft_range(int start, int end)
 	index = 0;
 	length = 0;
 
-	if (start == end)
-
-        length = 1;
+    if (start == end)
+       length = 1;
 	
     if (start > end)
         length = (long)start - (long)end + 1;
     
-	if (end > start)
-        length = (long)end - (long)start + 1;
+    if (end > start)
+       length = (long)end - (long)start + 1;
     
 	range = (int *)malloc(sizeof(int) * length);
 
