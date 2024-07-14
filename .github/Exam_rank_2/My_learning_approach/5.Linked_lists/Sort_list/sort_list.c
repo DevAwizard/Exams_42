@@ -1,14 +1,7 @@
-#include "list.h"
-
-/* The goal is to sort a linked list of nodes according to a comparison criterion defined by a comparison function passed as a parameter.
-In this case, the comparison function returns 0 if two elements need to be swapped.
-
-Example
-
-Original list:
-3 1 4 2 
-Sorted list:
-3 4 2 1  */
+# include "list.h"
+# include <stdlib.h>
+# include <unistd.h>
+# include <stdio.h>
 
 t_list	*sort_list(t_list *lst, int (*cmp)(int, int))
 {
@@ -17,7 +10,8 @@ t_list	*sort_list(t_list *lst, int (*cmp)(int, int))
 	t_list *start;
 
 	start = lst;
-	while (lst != NULL)
+
+	while (lst->next != NULL)
 	{
 		temp = start;
 		while (temp->next != NULL)
@@ -35,12 +29,12 @@ t_list	*sort_list(t_list *lst, int (*cmp)(int, int))
 	return (start);
 }
 
+// Not provided the main nor the following functions
+
 int ascending(int a, int b)
 {
     return (a - b);
 }
-
-
 
 // Function to create a new node
 t_list *create_node(int data)
@@ -69,6 +63,8 @@ int main()
     list->next = create_node(3);
     list->next->next = create_node(5);
     list->next->next->next = create_node(8);
+    list->next->next->next->next = create_node(12);
+    list->next->next->next->next->next = create_node(5);
 
     // Print the original list
     printf("Lista original:\n");
