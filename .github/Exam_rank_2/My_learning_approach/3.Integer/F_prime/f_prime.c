@@ -11,13 +11,17 @@ int main (int argc, char **argv)
 	int number;
 
 	if (argc != 2)
-	{
+	{  
 		printf("\n");
 		return (0);
 	}
 
 	number = atoi(argv[1]);
-
+	if (number <= 0)
+	{
+	   printf("0\n");
+	   return (0);
+	}
 	if (number == 1)
 	{
 		printf("\n");
