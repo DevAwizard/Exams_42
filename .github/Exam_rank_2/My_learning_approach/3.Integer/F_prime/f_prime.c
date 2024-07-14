@@ -12,8 +12,8 @@ int main (int argc, char **argv)
 
 	if (argc != 2)
 	{  
-		printf("\n");
-		return (0);
+	   printf("\n");
+	   return (0);
 	}
 
 	number = atoi(argv[1]);
@@ -24,8 +24,8 @@ int main (int argc, char **argv)
 	}
 	if (number == 1)
 	{
-		printf("\n");
-		return (0);
+	   printf("\n");
+	   return (0);
 	}
 
 	index = 2;
