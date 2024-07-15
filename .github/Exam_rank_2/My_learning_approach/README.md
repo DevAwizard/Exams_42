@@ -100,3 +100,7 @@
 | 2 | 4 | [Ft_list_foreach](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Ft_list_foreach) | Applies a function to each element of a linked list |
 | 3 | 4 | [Ft_list_remove_if](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Ft_list_remove_if) | Removes elements from a linked list that match a condition |
 | 4 | 4 | [Sort_list](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Sort_list) | Sorts a linked list |
+
+
+> [!TIP]
+> >  Also, use this [checklist and questionaire](https://github.com/DevAwizard/Exams_42/blob/main/.github/Resources/Check_list_exam.md) to write down which exercises you failed and passed, and have a record of it. 📋
