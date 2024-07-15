@@ -31,7 +31,7 @@
 
 ##  Exam Progress Questionnaire
 
-## Level
+### Level
 
 - [ ] 0
 - [ ] 1
@@ -47,15 +47,15 @@
 | Linked Lists  |          |
 | Integers      |          |
 
-## What I Understand So Far Until This Exam
+### What I Understand So Far Until This Exam
 
 **[Your answer here]**
 
-## What Errors I Committed
+### What Errors I Committed
 
 **[Your answer here]**
 
-## My personal feedback
+### My personal feedback
 
 **[Your answer here]**
 
