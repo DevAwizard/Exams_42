@@ -123,5 +123,9 @@ For more details, refer to the following [documentation](https://github.com/DevA
   </tr>
 </table>
 
+> [!TIP]
+> Also, use this [checklist and questionaire](https://github.com/DevAwizard/Exams_42/blob/main/.github/Resources/Check_list_exam.md) to write down which exercises you failed and passed, and have a record of it. 📋
+
+
 
 ---
