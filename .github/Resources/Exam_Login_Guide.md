@@ -8,7 +8,7 @@
 - Type `examshell` in the terminal
 
 **3️⃣ Your 42 Intra Account:**
-- **Login:** your 42 intra username (e.g., `prossi`)
+- **Login:** your 42 intra username (e.g., `anwu-yan`)
 - **Password:** your password
 
 **4️⃣ Your 42 Intra Photo:**
