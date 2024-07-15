@@ -29,7 +29,7 @@
 | 0                | ft_swap          |   10/01/2024      |   ✅    |
 
 
-###  Exam Progress Questionnaire
+##  Exam Progress Questionnaire
 
 ## Level
 
@@ -40,10 +40,12 @@
 
 ## Type of Function/Program
 
-- [ ] Character
-- [ ] Bits
-- [ ] Linked Lists
-- [ ] Integers
+| Type          | Mark (X) |
+|---------------|:--------:|
+| Character     |          |
+| Bits          |          |
+| Linked Lists  |          |
+| Integers      |          |
 
 ## What I Understand So Far Until This Exam
 
@@ -53,7 +55,7 @@
 
 **[Your answer here]**
 
-## My Feedback
+## My personal feedback
 
 **[Your answer here]**
 
