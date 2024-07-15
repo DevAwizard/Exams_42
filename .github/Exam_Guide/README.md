@@ -53,7 +53,7 @@
 > [!TIP]
 >  Practice the exam just like you would in the real exam using the following tool - [Grademe](https://grademe.fr/) 🛠️
 >
->  Also, use this [checklist](https://github.com/DevAwizard/Exams_42/blob/main/.github/Resources/Check_list_exam.md) to write down which exercises you failed and passed, and have a record of it. 📋
+>  Also, use this [checklist and questionaire](https://github.com/DevAwizard/Exams_42/blob/main/.github/Resources/Check_list_exam.md) to write down which exercises you failed and passed, and have a record of it. 📋
 > 
 > Check also [Additional Resources](https://github.com/DevAwizard/Exams_42/blob/main/.github/Resources/README.md) 👀
 
