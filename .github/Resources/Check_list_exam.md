@@ -38,6 +38,8 @@
 - [ ] 2
 - [ ] 3
 
+**[Mark the appropriate type with an "X"]**
+
 ## Type of Function/Program
 
 | Type          | Mark (X) |
@@ -59,6 +61,5 @@
 
 **[Your answer here]**
 
-**[Mark the appropriate type with an "X"]**
 
 ---
