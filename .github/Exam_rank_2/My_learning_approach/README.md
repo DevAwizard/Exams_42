@@ -103,4 +103,4 @@
 
 
 > [!TIP]
-> >  Also, use this [checklist and questionaire](https://github.com/DevAwizard/Exams_42/blob/main/.github/Resources/Check_list_exam.md) to write down which exercises you failed and passed, and have a record of it. 📋
+> Also, use this [checklist and questionaire](https://github.com/DevAwizard/Exams_42/blob/main/.github/Resources/Check_list_exam.md) to write down which exercises you failed and passed, and have a record of it. 📋
