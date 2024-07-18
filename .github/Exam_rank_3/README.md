@@ -39,20 +39,20 @@ Here are the steps:
 4. Relearn the concepts of printf and gnl.
 
   - Printf Concepts 🖨️
+    - Function prototype: int ft_print(char const*, ...);
     - va_start
     - va_arg
     - va_end
-    - Function prototype: int ft_print(char const*, ...);
     - Conversion specifiers: %d, %c, %s, %x (Consider looking for more conversion specifiers if needed)
 
   - Get next line concepts 📝
+    - Prototype function: char *get_next_line(int fd)
     - read
     - Buffer size
     - Static variable
     - fd (file descriptor)
     - Open file
     - Close file
-    - Prototype function: char *get_next_line(int fd)
     - free
     - Buffer
 
