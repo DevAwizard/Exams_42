@@ -1,8 +1,5 @@
 # My Learning Approach
 
-[![Progress](https://img.shields.io/badge/Progress-In%20Progress-yellow)](https://github.com/DevAwizard/Exams_42) 
-
-
 <img src="https://github.com/DevAwizard/Exams_42/assets/153505451/3313b894-7da6-4f0d-8fa9-1363b944ec8b" alt="anime-sad" width="1000" height="500">
 
 <p style="font-family: Arial, sans-serif; line-height:1.8; font-size:18px; color:#333;">Although there are four levels in exam rank 2, I’ve tailored my learning process differently. I’ve categorized the functions into five distinct groups:</p>
