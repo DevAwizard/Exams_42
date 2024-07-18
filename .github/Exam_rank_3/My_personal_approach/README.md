@@ -2,6 +2,10 @@
 
 [![Progress](https://img.shields.io/badge/Progress-In%20Progress-yellow)](https://github.com/DevAwizard/Exams_42) 
 
+<img src="https://github.com/user-attachments/assets/25c2193a-55ec-423a-aea7-037c962c7e69" alt="Learn" width="1000" height="500">
+
+
+
 Here are the steps: 
 
 1. Go to the exam, write down the exercise.
