@@ -6,9 +6,9 @@
 
 
 
-Here are the steps: 
+### Here are the steps: 
 
-1. Go to the exam, write down the exercise.
+1. Go to the **exam**, write down the exercise.
 
 2. Go to the printf or/and gnl subject.
 
