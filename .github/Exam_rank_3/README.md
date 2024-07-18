@@ -19,6 +19,16 @@
 - **No Norminette** rules are applied.
 
 
+## My Personal Approach
+
+
+
+
+
+### Exam questions
+
+
+
 
 
 
