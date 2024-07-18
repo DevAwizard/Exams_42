@@ -37,6 +37,12 @@
 
 For more details, refer to the following [documentation](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach) 📄.
 
+
+> [!TIP]
+> Also, use this [checklist and questionaire](https://github.com/DevAwizard/Exams_42/blob/main/.github/Resources/Check_list_exam.md) to write down which exercises you failed and passed, and have a record of it. 📋
+>
+
+
 ## Levels
 
 #### 🟢 **Level 1️⃣ (12 functions/programs)**
@@ -125,10 +131,6 @@ For more details, refer to the following [documentation](https://github.com/DevA
     <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/5.Linked_lists/Sort_list">sort_list</a></td>
   </tr>
 </table>
-
-> [!TIP]
-> Also, use this [checklist and questionaire](https://github.com/DevAwizard/Exams_42/blob/main/.github/Resources/Check_list_exam.md) to write down which exercises you failed and passed, and have a record of it. 📋
-
 
 
 ---
