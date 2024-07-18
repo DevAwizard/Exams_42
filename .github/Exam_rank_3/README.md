@@ -10,11 +10,11 @@
 
 ### Exam Details 🧐
 
-- The exam consists of 2 random questions: either printf 🖨️ or get_next_line 📝.
+- The exam consists of 2 random questions: either **`printf`** 🖨️ or **`get_next_line`** 📝.
 
 - If you fail the exam, you can retake the same exercise.
 
-- Each grade will increase the amount of time for the next attempt. ⏳
+- Each **`grademe`** will increase the amount of time for the next attempt. ⏳
 
 - No Norminette rules are applied.
 
