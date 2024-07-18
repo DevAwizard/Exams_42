@@ -14,6 +14,9 @@
 
 - Failing the exam allows you to retake it without restarting from Level 1.
 
+- Each **`grademe`** will increase the amount of time for the next attempt. ⏳
+
+
 - **No Norminette** is applied.
 
 
