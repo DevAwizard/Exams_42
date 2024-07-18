@@ -38,14 +38,14 @@ Here are the steps:
 
 4. Relearn the concepts of printf and gnl.
 
-  - Printf Concepts:
+  - Printf Concepts 🖨️
     - va_start
     - va_arg
     - va_end
     - Function prototype: int ft_print(char const*, ...);
     - Conversion specifiers: %d, %c, %s, %x (Consider looking for more conversion specifiers if needed)
 
-  - Get next line concepts
+  - Get next line concepts 📝
     - read
     - Buffer size
     - Static variable
