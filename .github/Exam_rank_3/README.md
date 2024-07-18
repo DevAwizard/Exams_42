@@ -16,7 +16,7 @@
 
 - Each **`grademe`** will increase the amount of time for the next attempt. ⏳
 
-- No Norminette rules are applied.
+- **No Norminette** rules are applied.
 
 
 
