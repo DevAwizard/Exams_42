@@ -14,7 +14,7 @@
 
 3. Remember what it consists of.
 
-4. **Relearn** the concepts of printf and gnl.
+4. **Relearn** the concepts of _printf_ and _gnl_.
 
   - **`Printf Concepts`** 🖨️
     
