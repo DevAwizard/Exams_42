@@ -23,14 +23,11 @@
 
 I start by writing down the exercise and reviewing the relevant subjects (printf or gnl). I then refresh my knowledge on the key concepts needed for each topic. 
 
-For printf 🖨️, I focus on variadic functions and conversion specifiers. 
+- For printf 🖨️, I focus on variadic functions and conversion specifiers. 
 
+- For get_next_line 📝, I concentrate on file handling, buffers, and the static variable. 
 
-For get_next_line 📝, I concentrate on file handling, buffers, and the static variable. 
-
-This structured review helps me prepare effectively for the exam.
-
-For more details, refer to the following [documentation](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_3/My_personal_approach)📄.
+This structured review helps me prepare effectively for the exam. For more details, refer to the following [documentation](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_3/My_personal_approach)📄.
 
 
 
