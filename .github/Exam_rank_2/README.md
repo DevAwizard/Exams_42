@@ -106,7 +106,7 @@ For more details, refer to the following [documentation](https://github.com/DevA
     <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_rrange">ft_rrange</a></td>
     <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Hiden_p">hidenp</a></td>
     <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Lmc">lcm</a></td>
-    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Parasum">paramsum</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Paramsum">paramsum</a></td>
     <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Pgcd">pgcd</a></td>
     <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Print_hex">print_hex</a></td>
     <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Rstr_capitalizer">rstr_capitalizer</a></td>
