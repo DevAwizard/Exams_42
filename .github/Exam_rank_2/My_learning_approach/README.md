@@ -63,7 +63,7 @@
 | Number | Level | Function | Description |
 |--------|-------|-----------|-------------|
 | 1 | 1 | [Ft_swap](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_swap) | Swaps the values of two integers |
-| 2 | 3 | [Paramsum](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Parasum) | Sums the parameters |
+| 2 | 3 | [Paramsum](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Paramsum) | Sums the parameters |
 | 3 | 1 | [Fizzbuzz](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Fizzbuzz) | Prints numbers with "Fizz", "Buzz", or "FizzBuzz" for multiples of 3, 5, or both |
 | 4 | 2 | [Ft_atoi](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_atoi) | Converts a string to an integer |
 | 5 | 3 | [Ft_atoi_base](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_atoi_base) | Converts a string to an integer with a given base |
