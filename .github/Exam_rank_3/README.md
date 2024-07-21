@@ -12,7 +12,7 @@
 
 - The exam consists of 2 random questions: either **`printf`** 🖨️ or **`get_next_line`** 📝.
 
-- If you fail the exam, you can retake the same exercise. 
+- If you fail the exercise, you can retake it as many times as needed within the available time.
 
 - Each **`grademe`** will increase the amount of time for the next attempt. ⏳
 
