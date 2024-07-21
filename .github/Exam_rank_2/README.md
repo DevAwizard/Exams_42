@@ -12,10 +12,9 @@
 
 - The exam has 4 levels, with 1 random question from each level. 📈
 
-- If you fail any level of the exam, you can retake it as many times as needed within the available time, without having to restart from Level 1. For example, if you fail Level 1 on your first attempt, you can keep attempting it repeatedly until you succeed.
+- If you fail the exercise, you can retake it as many times as needed within the available time. For example, if you fail the exercise from Level 1 on your first attempt, you can keep attempting it repeatedly until you succeed.
 
 - Each **`grademe`** will increase the amount of time for the next attempt. ⏳
-
 
 - **No Norminette** is applied.
 
