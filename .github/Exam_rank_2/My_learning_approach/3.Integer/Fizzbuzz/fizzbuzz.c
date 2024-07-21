@@ -23,14 +23,14 @@ int main (void)
 
 	while (number <= 100)
 	{
-		if (number % 3 == 0)
-			write(1, "fizz\n", 5);
-		
-		else if(number % 5 == 0)
-			write (1, "buzz\n", 5);
-		
-		else if (number % 15 == 0)
+		if (number % 15 == 0) // or ((number % 3 == 0) && (number % 5 == 0))
 			write (1, "fizzbuzz\n", 9);
+		
+		else if (number % 3 == 0)
+			write(1, "fizz\n", 5);
+			
+		else if (number % 5 == 0)
+			write (1, "buzz\n", 5);
 		
 		else
 		{
