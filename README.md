@@ -31,7 +31,7 @@
 </p>
 
 
-> Note!
-> Currently at exam 2
+> [!NOTE]
+> Only exam 2 is available
 
 ---
