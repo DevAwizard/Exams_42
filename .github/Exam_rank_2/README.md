@@ -55,7 +55,7 @@ For more details, refer to the following [documentation](https://github.com/DevA
     <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/3.Integer/Ft_swap">Ft_swap</a></td>
     <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Ft_putstr">putstr</a></td>
     <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Repeat_alpha">Repeat_alpha</a></td>
-    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Reve_print">reve_print</a></td>
+    <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/2.Characters(reverse_order)/Rev_print">reve_print</a></td>
     <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Rot_13">rot_13</a></td>
     <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Rot_one">rotone</a></td>
     <td><a href="https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach/1.Characters(original_order)/Search_and_replace">Search_and_replace</a></td>
