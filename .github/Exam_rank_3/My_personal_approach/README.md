@@ -44,13 +44,7 @@
 
     - Memory management with `free`.
 
-📝 For the `get_next_line` exercise, refer to the **concise exam-ready versions** of both the `.h` and `.c` files:
-
-1. **Header File (`get_next_line.h`)**:  
-   👉 [get_next_line.h - Short Version](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Get_next_line/get_next_line.h)
-
-2. **Source File (`get_next_line.c`)**:  
-   👉 [get_next_line.c - Short Version](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Get_next_line/get_next_line.c)
+📝 For the `get_next_line` exercise, refer to the **concise exam-ready versions** of both the [`.h`](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Get_next_line/get_next_line.h) and [`.c`](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Get_next_line/get_next_line.c) files:
 
 
 ---
