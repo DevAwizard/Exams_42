@@ -25,9 +25,7 @@
     - **Conversion specifiers**: `%d`, `%c`, `%s`, `%x` (Consider looking for more conversion specifiers if needed)
    
  
-📝 If you're tackling the `ft_printf` exercise, you can find a **short, exam-ready implementation** of the function here:
-
-  👉 [ft_printf - Short Version](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Ft_printf/README.md)
+📝 If you're tackling the `ft_printf` exercise, you can find a **short, exam-ready implementation** of the function [here](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Ft_printf/README.md)
 
 
   - **`Get next line concepts`** 📝
