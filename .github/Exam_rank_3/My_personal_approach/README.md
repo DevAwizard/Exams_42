@@ -25,9 +25,9 @@
     - **Conversion specifiers**: `%d`, `%c`, `%s`, `%x` (Consider looking for more conversion specifiers if needed)
    
  
-📝 **For more details on `ft_printf`, check this link**:
+📝 If you're tackling the `ft_printf` exercise, you can find a **short, exam-ready implementation** of the function here:
 
-  👉 [ft_printf - GitHub Code](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Ft_printf/README.md)
+    👉 [ft_printf - Short Version](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Ft_printf/README.md)
 
 
   - **`Get next line concepts`** 📝
@@ -46,14 +46,13 @@
 
     - Memory management with `free`.
 
+📝 For the `get_next_line` exercise, refer to the **concise exam-ready versions** of both the `.h` and `.c` files:
 
-📝 **For more details on `get_next_line`, check the following files**:
+1. **Header File (`get_next_line.h`)**:  
+   👉 [get_next_line.h - Short Version](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Get_next_line/get_next_line.h)
 
-1. **Header file** (`get_next_line.h`):  
-   👉 [get_next_line.h - GitHub Code](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Get_next_line/get_next_line.h)
-
-2. **Source file** (`get_next_line.c`):  
-   👉 [get_next_line.c - GitHub Code](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Get_next_line/get_next_line.c)
+2. **Source File (`get_next_line.c`)**:  
+   👉 [get_next_line.c - Short Version](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Get_next_line/get_next_line.c)
 
 
 ---
