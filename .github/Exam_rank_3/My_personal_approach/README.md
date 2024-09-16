@@ -27,6 +27,8 @@
     - `va_end`
 
     - **Conversion specifiers**: `%d`, `%c`, `%s`, `%x` (Consider looking for more conversion specifiers if needed)
+   
+  https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Ft_printf/README.md
 
   - **`Get next line concepts`** 📝
 
@@ -47,6 +49,8 @@
     - `free`
 
     - `Buffer`
+
+
 
 
 
