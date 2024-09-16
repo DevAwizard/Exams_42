@@ -71,7 +71,7 @@ Obs: Your function must not have memory leaks. Moulinette will test that.
 
 ```sh
 Assignment name : get_next_line
-Expected files : get_next_line.c (42_EXAM can't take .h for now)
+Expected files : get_next_line.c, get_next_line.h(check if it is compulsory)
 Allowed functions: read, free, malloc
 --------------------------------------------------------------------------------
 
