@@ -44,7 +44,7 @@
 
     - Memory management with `free`.
 
-📝 For the `get_next_line` exercise, refer to the **concise exam-ready versions** of both the [`.h`](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Get_next_line/get_next_line.h) and [`.c`](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Get_next_line/get_next_line.c) files:
+📝 For the `get_next_line` exercise, refer to the **concise exam-ready versions** of both the [Header file `.h`](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Get_next_line/get_next_line.h) and [Source file `.c`](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Get_next_line/get_next_line.c) files:
 
 
 ---
