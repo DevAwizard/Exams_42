@@ -32,6 +32,6 @@
 
 
 > [!NOTE]
-> Only exam 2 is available
+> Only exam 2 & 3 are available
 
 ---
