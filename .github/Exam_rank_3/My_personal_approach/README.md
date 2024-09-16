@@ -27,7 +27,7 @@
  
 📝 **For more details on `ft_printf`, check this link**:
 
-👉 [ft_printf - GitHub Code](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Ft_printf/README.md)
+  👉 [ft_printf - GitHub Code](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Ft_printf/README.md)
 
 
   - **`Get next line concepts`** 📝
