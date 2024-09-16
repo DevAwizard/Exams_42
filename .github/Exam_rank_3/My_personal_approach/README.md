@@ -18,40 +18,42 @@
 
   - **`Printf Concepts`** 🖨️
     
-    - Function prototype: int ft_print(char const*, ...);
-
-    - `va_start`
-
-    - `va_arg`
-
-    - `va_end`
+    - Function prototype: `int ft_printf(const char*, ...)`;
+      
+    - Use of `va_start`, `va_arg`, `va_end`.
 
     - **Conversion specifiers**: `%d`, `%c`, `%s`, `%x` (Consider looking for more conversion specifiers if needed)
    
-  https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Ft_printf/README.md
+ 
+📝 **For more details on `ft_printf`, check this link**:
+
+👉 [ft_printf - GitHub Code](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Ft_printf/README.md)
+
 
   - **`Get next line concepts`** 📝
 
-    - Prototype function: `char *get_next_line(int fd)`
+    -  Function prototype: `char *get_next_line(int fd)`
 
-    - `read`
+    - `Working with the `read` function.
 
-    - `Buffer size`
+    - Understanding `Buffer size` and handling the buffer.
 
-    - `Static variable`
+    - Use of a `Static variable` to persist data across function calls.
 
-    - `fd` (file descriptor)
+    - Handling the `file descriptor` (`fd`).
 
-    - `Open` file
+    - Properly `open` and `close` files.
 
-    - `Close` file
-
-    - `free`
-
-    - `Buffer`
+    - Memory management with `free`.
 
 
+📝 **For more details on `get_next_line`, check the following files**:
 
+1. **Header file** (`get_next_line.h`):  
+   👉 [get_next_line.h - GitHub Code](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Get_next_line/get_next_line.h)
+
+2. **Source file** (`get_next_line.c`):  
+   👉 [get_next_line.c - GitHub Code](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_3/My_personal_approach/Get_next_line/get_next_line.c)
 
 
 ---
