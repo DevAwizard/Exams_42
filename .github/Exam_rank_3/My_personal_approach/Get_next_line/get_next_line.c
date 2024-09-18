@@ -29,8 +29,8 @@ char *ft_strdup(char *string)
 char *get_next_line(int fd)
 {
 	static char		buffer[BUFFER_SIZE];
-	static int		buffer_index;
-	static int		buffer_readed;
+	static int		buffer_index = 0;
+	static int		buffer_readed = 0;
 	char			line[70000];
 	int				index;
 
