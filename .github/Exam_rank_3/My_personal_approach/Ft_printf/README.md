@@ -93,6 +93,4 @@ Your goal is to implement **`ft_printf`** and make sure it properly mimics the b
 
 
 
-🌟 **Good Luck!** You’ve got this! Keep your code clean, readable, and efficient. 💪
-
 ---
